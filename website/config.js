@@ -5,7 +5,7 @@
  * roten Hinweisbalken. So geht nichts versehentlich mit Platzhaltern online.
  */
 window.KI_STIMMEN = {
-  marke: "KI-Stimmen Edewecht",
+  marke: "Ansagewerk",
 
   // Inhaber (voller Name, wie in der Gewerbeanmeldung)
   inhaber: "TODO Vorname Nachname",
@@ -19,7 +19,7 @@ window.KI_STIMMEN = {
   telefonLink: "TODO",
 
   // E-Mail-Adresse, an die Demo-Anfragen gehen
-  email: "TODO E-Mail-Adresse",
+  email: "ansagewerk@gmail.com",
 
   // Webhoster (für die Datenschutzerklärung), z. B. "GitHub Pages (GitHub Inc., USA)"
   hoster: "TODO Hoster",
