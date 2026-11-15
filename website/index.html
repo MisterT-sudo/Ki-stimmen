@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Telefonansagen für Praxen in Edewecht | KI-Stimmen Edewecht</title>
+  <meta name="description" content="Professionelle Telefonansagen mit KI-Stimme für Arztpraxen, Zahnärzte, Physiotherapie und Betriebe in Edewecht und Umgebung. Kostenlose Demo mit Ihrem Praxisnamen, Lieferung in 24 Stunden, ab 39 €.">
+  <meta name="theme-color" content="#f6f1e7">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="de_DE">
+  <meta property="og:title" content="Telefonansagen für Praxen in Edewecht">
+  <meta property="og:description" content="Begrüßung, Warteschleife, Sprechzeiten- und Urlaubsansage in ruhiger, klarer Stimme. Kostenlose Demo mit Ihrem Praxisnamen.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="fonts/fraunces-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/figtree-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+  <script>document.documentElement.classList.add("js");</script>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.2v13.6a.8.8 0 0 0 1.2.7l11-6.8a.8.8 0 0 0 0-1.4l-11-6.8A.8.8 0 0 0 8 5.2z"/></symbol>
+    <symbol id="i-pause" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="5" width="4.5" height="14" rx="1.2"/><rect x="13.5" y="5" width="4.5" height="14" rx="1.2"/></symbol>
+    <symbol id="i-phone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M6.6 3.5h2.2l1.4 4-1.9 1.4a12 12 0 0 0 6.8 6.8l1.4-1.9 4 1.4v2.2a2.1 2.1 0 0 1-2.3 2.1A16.6 16.6 0 0 1 4.5 5.8a2.1 2.1 0 0 1 2.1-2.3z"/></symbol>
+    <symbol id="i-mail" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M4 7.5l8 6 8-6"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11.5a7 7 0 0 0-14 0C5 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></symbol>
+    <symbol id="i-ear" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 10v4M8 6v12M12 3v18M16 7v10M20 10v4"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></symbol>
+    <symbol id="i-edit" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4l10.5-10.5a2.1 2.1 0 0 0-3-3L5 17v3z"/><path d="M13.5 7.5l3 3"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+  </defs>
+</svg>
+
+<a class="skip" href="#inhalt">Zum Inhalt springen</a>
+
+<div class="todo-bar" id="todo-bar" hidden>Entwurf: In <code>config.js</code> fehlen noch Kontaktdaten. Bitte vor der Veröffentlichung ausfüllen.</div>
+
+<header class="header">
+  <div class="wrap header__in">
+    <a class="logo" href="#top" aria-label="KI-Stimmen Edewecht, zur Startseite">
+      <svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="15" fill="#0f5c4c"/><g fill="#f6f1e7"><rect x="12" y="26" width="6" height="12" rx="3"/><rect x="23" y="17" width="6" height="30" rx="3"/><rect x="34" y="10" width="6" height="44" rx="3" fill="#f0b254"/><rect x="45" y="21" width="6" height="22" rx="3"/></g></svg>
+      <span>KI-Stimmen Edewecht</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav" aria-label="Menü öffnen">
+      <svg width="24" height="24" aria-hidden="true"><use href="#i-menu"/></svg>
+    </button>
+    <nav class="nav" id="nav" aria-label="Hauptmenü">
+      <a href="#hoerproben">Hörproben</a>
+      <a href="#ansagen">Ansagen</a>
+      <a href="#preise">Preise</a>
+      <a href="#ablauf">Ablauf</a>
+      <a href="#fragen">Fragen</a>
+      <a class="btn btn--primary btn--small" href="#kontakt">Kostenlose Demo</a>
+    </nav>
+  </div>
+</header>
+
+<main id="inhalt">
+
+  <!-- Hero -->
+  <section class="hero" id="top">
+    <div class="wrap hero__grid">
+      <div>
+        <span class="eyebrow">Telefonansagen für Edewecht und Umgebung</span>
+        <h1>Der erste Eindruck Ihrer Praxis beginnt <em>am Telefon.</em></h1>
+        <p class="hero__lead">Begrüßung, Warteschleife, Sprechzeiten und Urlaub: Wir erstellen Ihre Ansagen mit einer ruhigen, klaren KI-Stimme. Sie hören vorab eine kostenlose Demo mit Ihrem Praxisnamen.</p>
+        <div class="hero__cta">
+          <a class="btn btn--primary" href="#kontakt">Kostenlose Demo anfragen</a>
+          <a class="btn btn--ghost" href="#hoerproben">Hörproben anhören</a>
+        </div>
+        <ul class="hero__facts">
+          <li><svg aria-hidden="true"><use href="#i-check"/></svg>Lieferung in 24 Stunden</li>
+          <li><svg aria-hidden="true"><use href="#i-check"/></svg>Festpreis ab 39 €</li>
+          <li><svg aria-hidden="true"><use href="#i-check"/></svg>Hilfe beim Einspielen</li>
+        </ul>
+      </div>
+
+      <div class="call" role="img" aria-label="Beispiel: So klingt eine Ansage außerhalb der Sprechzeiten.">
+        <div class="call__top">
+          <span class="call__live">Anruf läuft</span>
+          <span>Mittwoch, 18:42 Uhr</span>
+        </div>
+        <div class="call__who">Hausarztpraxis Musterweg</div>
+        <div class="call__num">Beispielansage</div>
+        <div class="call__wave" id="wave" aria-hidden="true"></div>
+        <p class="call__text">Guten Tag, Sie sind mit der Hausarztpraxis Musterweg verbunden. Sie rufen außerhalb unserer Sprechzeiten an. Wir sind montags bis freitags von 8 bis 12 Uhr für Sie da.</p>
+        <p class="call__note">Kein Besetztzeichen, kein rauschendes Band: Ihre Patientinnen und Patienten wissen sofort, woran sie sind.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Weihnachts-Hinweis (blendet sich nach dem Stichtag selbst aus) -->
+  <aside class="xmas" id="xmas" hidden>
+    <div class="wrap xmas__in">
+      <p>Praxis zwischen den Jahren geschlossen? Ihre Weihnachtsansage ist rechtzeitig vor den Feiertagen fertig.</p>
+      <a href="#kontakt">Jetzt Weihnachtsansage anfragen →</a>
+    </div>
+  </aside>
+
+  <!-- Nutzen -->
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <span class="eyebrow">Warum eine neue Ansage</span>
+        <h2>Jeder Anruf, den Ihr Team nicht annehmen kann, bekommt trotzdem eine gute Antwort.</h2>
+      </div>
+      <div class="grid-3">
+        <article class="card reveal">
+          <div class="card__icon"><svg aria-hidden="true"><use href="#i-ear"/></svg></div>
+          <h3>Klar und gut verständlich</h3>
+          <p>Ruhiges Tempo, deutliche Aussprache, gleichbleibende Lautstärke. Auch ältere Anrufende verstehen Sprechzeiten und Hinweise beim ersten Hören.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card__icon"><svg aria-hidden="true"><use href="#i-clock"/></svg></div>
+          <h3>Schnell geändert</h3>
+          <p>Urlaub, Brückentag, neue Sprechzeiten: Sie schicken uns den Text, am nächsten Tag ist die neue Ansage da. Niemand aus dem Team muss etwas aufsprechen.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card__icon"><svg aria-hidden="true"><use href="#i-edit"/></svg></div>
+          <h3>Immer dieselbe Stimme</h3>
+          <p>Alle Ansagen klingen aus einem Guss, auch wenn später etwas dazukommt. Das wirkt aufgeräumt und entlastet Ihre Anmeldung.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Hörproben -->
+  <section class="section section--tint" id="hoerproben">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <span class="eyebrow">Hörproben</span>
+        <h2>Hören Sie selbst, wie es klingt.</h2>
+        <p>Drei typische Ansagen für eine Praxis. Die Texte sind Beispiele, Ihre Ansage entsteht mit Ihrem Namen, Ihren Zeiten und Ihren Hinweisen.</p>
+      </div>
+      <div class="grid-3">
+
+        <article class="card sample reveal">
+          <span class="sample__tag">Begrüßung</span>
+          <h3>Während der Sprechzeiten</h3>
+          <blockquote>Guten Tag und herzlich willkommen in der Hausarztpraxis Musterweg. Bitte haben Sie einen Moment Geduld, wir sind gleich persönlich für Sie da.</blockquote>
+          <div class="player" data-src="hoerproben/begruessung.mp3">
+            <button class="player__btn" type="button" aria-label="Hörprobe Begrüßung abspielen">
+              <svg class="i-play" aria-hidden="true"><use href="#i-play"/></svg>
+              <svg class="i-pause" aria-hidden="true"><use href="#i-pause"/></svg>
+            </button>
+            <div class="player__body">
+              <div class="player__bar"><i></i></div>
+              <div class="player__meta"><span class="player__state">Anhören</span><span class="player__time"></span></div>
+            </div>
+          </div>
+        </article>
+
+        <article class="card sample reveal">
+          <span class="sample__tag">Außerhalb der Sprechzeiten</span>
+          <h3>Abends und am Wochenende</h3>
+          <blockquote>Sie rufen außerhalb unserer Sprechzeiten an. Wir sind montags bis freitags von 8 bis 12 Uhr für Sie da. In dringenden Fällen erreichen Sie den ärztlichen Bereitschaftsdienst unter 116 117.</blockquote>
+          <div class="player" data-src="hoerproben/sprechzeiten.mp3">
+            <button class="player__btn" type="button" aria-label="Hörprobe Sprechzeiten abspielen">
+              <svg class="i-play" aria-hidden="true"><use href="#i-play"/></svg>
+              <svg class="i-pause" aria-hidden="true"><use href="#i-pause"/></svg>
+            </button>
+            <div class="player__body">
+              <div class="player__bar"><i></i></div>
+              <div class="player__meta"><span class="player__state">Anhören</span><span class="player__time"></span></div>
+            </div>
+          </div>
+        </article>
+
+        <article class="card sample reveal">
+          <span class="sample__tag">Urlaub und Feiertage</span>
+          <h3>Zwischen den Jahren</h3>
+          <blockquote>Unsere Praxis ist vom 23. Dezember bis zum 3. Januar geschlossen. Ab Montag, dem 4. Januar, sind wir wieder für Sie da. Wir wünschen Ihnen frohe Weihnachten.</blockquote>
+          <div class="player" data-src="hoerproben/weihnachten.mp3">
+            <button class="player__btn" type="button" aria-label="Hörprobe Weihnachtsansage abspielen">
+              <svg class="i-play" aria-hidden="true"><use href="#i-play"/></svg>
+              <svg class="i-pause" aria-hidden="true"><use href="#i-pause"/></svg>
+            </button>
+            <div class="player__body">
+              <div class="player__bar"><i></i></div>
+              <div class="player__meta"><span class="player__state">Anhören</span><span class="player__time"></span></div>
+            </div>
+          </div>
+        </article>
+
+      </div>
+      <p class="samples-note reveal">Am überzeugendsten ist die Demo mit Ihrem eigenen Praxisnamen. <a href="#kontakt">Die bekommen Sie kostenlos.</a></p>
+    </div>
+  </section>
+
+  <!-- Ansagearten -->
+  <section class="section" id="ansagen">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <span class="eyebrow">Ansagen</span>
+        <h2>Alles, was Ihre Telefonanlage sagen soll.</h2>
+        <p>Den Text formulieren wir gemeinsam. Sie geben uns die Fakten, wir machen daraus kurze Sätze, die man am Telefon gut versteht.</p>
+      </div>
+      <ul class="kinds reveal">
+        <li><span class="n">01</span><h3>Begrüßung</h3><p>Der freundliche erste Satz, bevor jemand abnimmt.</p></li>
+        <li><span class="n">02</span><h3>Warteschleife</h3><p>Hinweise für die Wartezeit, etwa zu Rezepten oder zur Online-Terminbuchung.</p></li>
+        <li><span class="n">03</span><h3>Außerhalb der Sprechzeiten</h3><p>Ihre Zeiten und der Hinweis auf den Bereitschaftsdienst.</p></li>
+        <li><span class="n">04</span><h3>Urlaub und Feiertage</h3><p>Schließzeit, Vertretung und der erste Tag, an dem Sie wieder da sind.</p></li>
+        <li><span class="n">05</span><h3>Mittagspause</h3><p>Kurzer Hinweis, wann die Anmeldung wieder besetzt ist.</p></li>
+        <li><span class="n">06</span><h3>Sonderansagen</h3><p>Fortbildungstag, Impftermine, Umzug oder eine neue Telefonnummer.</p></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Preise -->
+  <section class="section section--tint" id="preise">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <span class="eyebrow">Preise</span>
+        <h2>Feste Preise, keine Überraschungen.</h2>
+        <p>Die Demo ist kostenlos. Sie entscheiden erst, wenn Sie Ihre Ansage gehört haben.</p>
+      </div>
+      <div class="prices">
+
+        <article class="card price reveal">
+          <h3>Einzelansage</h3>
+          <p>Für Weihnachten, Urlaub oder einen einzelnen Anlass.</p>
+          <div class="price__num">39 €</div>
+          <ul>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Eine Ansage nach Ihrem Text</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Hilfe beim Formulieren</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Passendes Dateiformat für Ihre Anlage</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Lieferung in 24 Stunden</li>
+          </ul>
+          <a class="btn btn--ghost btn--full" href="#kontakt" data-pick="Einzelansage (39 €)">Einzelansage anfragen</a>
+        </article>
+
+        <article class="card price price--main reveal">
+          <span class="price__badge">Unsere Empfehlung</span>
+          <h3>Praxis komplett</h3>
+          <p>Alle wichtigen Ansagen in einer Stimme.</p>
+          <div class="price__num">99 €</div>
+          <ul>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Begrüßung</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Warteschleife</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Außerhalb der Sprechzeiten</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Urlaubsansage</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Hilfe beim Einspielen in die Anlage</li>
+          </ul>
+          <a class="btn btn--amber btn--full" href="#kontakt" data-pick="Paket Praxis komplett (99 €)">Paket anfragen</a>
+        </article>
+
+        <article class="card price reveal">
+          <h3>Änderungs-Abo</h3>
+          <p>Für Praxen, bei denen sich öfter etwas ändert.</p>
+          <div class="price__num">9 € <small>/ Monat</small></div>
+          <ul>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Unbegrenzt viele Änderungen</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Neue Ansage in 24 Stunden</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Gleiche Stimme wie bisher</li>
+            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Ideal für Urlaub, Brückentage, Feiertage</li>
+          </ul>
+          <a class="btn btn--ghost btn--full" href="#kontakt" data-pick="Änderungs-Abo (9 € / Monat)">Abo anfragen</a>
+        </article>
+
+      </div>
+      <p class="prices-note reveal">Alle Preise sind Endpreise. Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.</p>
+    </div>
+  </section>
+
+  <!-- Ablauf -->
+  <section class="section" id="ablauf">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <span class="eyebrow">Ablauf</span>
+        <h2>In vier Schritten zur neuen Ansage.</h2>
+      </div>
+      <ol class="steps reveal">
+        <li><h3>Demo anfragen</h3><p>Sie nennen uns Praxisnamen und Sprechzeiten. Mehr brauchen wir für den Anfang nicht.</p></li>
+        <li><h3>Probe hören</h3><p>Sie bekommen eine kostenlose Demo mit Ihrem Namen und entscheiden in Ruhe.</p></li>
+        <li><h3>Text abstimmen</h3><p>Wir formulieren Ihre Ansagen aus und passen sie an, bis jeder Satz stimmt.</p></li>
+        <li><h3>Einspielen</h3><p>Sie erhalten die fertigen Dateien innerhalb von 24 Stunden. Auf Wunsch helfen wir beim Hochladen.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- Technik -->
+  <section class="section section--tint">
+    <div class="wrap tech">
+      <div class="reveal">
+        <span class="eyebrow">Technik</span>
+        <h2>Passt zu Ihrer Telefonanlage.</h2>
+      </div>
+      <div class="reveal">
+        <p>Jede Anlage möchte ihre Ansagen in einem etwas anderen Format. Darum kümmern wir uns: Sie bekommen die Datei so, wie Ihre Anlage sie braucht, zum Beispiel als WAV oder MP3.</p>
+        <p class="muted">Sie wissen nicht, welche Anlage Sie haben? Ein Foto vom Gerät oder der Name Ihres Telefonanbieters genügt.</p>
+        <ul class="chips" style="margin-top:22px" aria-label="Beispiele für Telefonanlagen">
+          <li>FRITZ!Box</li>
+          <li>Telekom</li>
+          <li>3CX</li>
+          <li>Auerswald</li>
+          <li>andere Anlagen auf Anfrage</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section" id="fragen">
+    <div class="wrap">
+      <div class="section-head reveal">
+        <span class="eyebrow">Häufige Fragen</span>
+        <h2>Gut zu wissen.</h2>
+      </div>
+      <div class="faq reveal">
+        <details>
+          <summary>Ist das eine echte Sprecherin oder ein Sprecher?</summary>
+          <p>Nein. Die Ansagen werden mit einer KI-Stimme erzeugt, und das sagen wir offen. Die Stimme klingt natürlich und ruhig. Ob sie zu Ihrer Praxis passt, hören Sie in der kostenlosen Demo, bevor Sie etwas bestellen.</p>
+        </details>
+        <details>
+          <summary>Was kostet die Demo?</summary>
+          <p>Nichts. Sie bekommen eine kurze Ansage mit Ihrem Praxisnamen und Ihren Sprechzeiten. Wenn sie Ihnen nicht gefällt, entstehen keine Kosten und keine Verpflichtung.</p>
+        </details>
+        <details>
+          <summary>Wie schnell ist die Ansage fertig?</summary>
+          <p>Sobald der Text feststeht, liefern wir innerhalb von 24 Stunden.</p>
+        </details>
+        <details>
+          <summary>Wir sind technisch nicht fit. Wer spielt die Ansage ein?</summary>
+          <p>Wir helfen dabei. Im Paket „Praxis komplett“ ist die Hilfe beim Einspielen enthalten. Da wir aus der Gegend kommen, können wir das auch gemeinsam vor Ort erledigen.</p>
+        </details>
+        <details>
+          <summary>Was ist, wenn sich unsere Sprechzeiten ändern?</summary>
+          <p>Dann bestellen Sie eine einzelne neue Ansage oder nutzen das Änderungs-Abo. Die Stimme bleibt dieselbe, sodass alles weiterhin zusammenpasst.</p>
+        </details>
+        <details>
+          <summary>Erstellen Sie auch Ansagen für Handwerksbetriebe und andere Firmen?</summary>
+          <p>Ja. Das Angebot richtet sich an Praxen ebenso wie an Handwerksbetriebe, Kanzleien und Geschäfte in Edewecht, Friedrichsfehn, Bad Zwischenahn und Umgebung.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Kontakt -->
+  <section class="section contact" id="kontakt">
+    <div class="wrap contact__grid">
+      <div class="reveal">
+        <span class="eyebrow">Kostenlose Demo</span>
+        <h2>Hören Sie Ihre Praxis, bevor Sie sich entscheiden.</h2>
+        <p class="contact__lead">Schreiben Sie uns kurz oder rufen Sie an. Wir melden uns mit Ihrer persönlichen Demo.</p>
+        <ul class="contact__ways">
+          <li>
+            <span class="ic"><svg aria-hidden="true"><use href="#i-phone"/></svg></span>
+            <span><small>Telefon</small><a data-c="telefon" href="#kontakt">Telefonnummer folgt</a></span>
+          </li>
+          <li>
+            <span class="ic"><svg aria-hidden="true"><use href="#i-mail"/></svg></span>
+            <span><small>E-Mail</small><a data-c="email" href="#kontakt">E-Mail-Adresse folgt</a></span>
+          </li>
+          <li>
+            <span class="ic"><svg aria-hidden="true"><use href="#i-pin"/></svg></span>
+            <span><small>Vor Ort</small><span class="v">Edewecht und Umgebung</span></span>
+          </li>
+        </ul>
+      </div>
+
+      <form class="form reveal" id="demo-form" novalidate>
+        <div class="form__row">
+          <div class="field">
+            <label for="f-praxis">Praxis oder Betrieb</label>
+            <input id="f-praxis" name="praxis" type="text" autocomplete="organization" required>
+          </div>
+          <div class="field">
+            <label for="f-name">Ansprechperson</label>
+            <input id="f-name" name="name" type="text" autocomplete="name" required>
+          </div>
+        </div>
+        <div class="form__row">
+          <div class="field">
+            <label for="f-tel">Telefon <span class="opt">(für Rückfragen)</span></label>
+            <input id="f-tel" name="telefon" type="tel" autocomplete="tel" inputmode="tel">
+          </div>
+          <div class="field">
+            <label for="f-wunsch">Ich interessiere mich für</label>
+            <select id="f-wunsch" name="wunsch">
+              <option>Kostenlose Demo</option>
+              <option>Einzelansage (39 €)</option>
+              <option>Paket Praxis komplett (99 €)</option>
+              <option>Änderungs-Abo (9 € / Monat)</option>
+            </select>
+          </div>
+        </div>
+        <div class="field">
+          <label for="f-text">Sprechzeiten oder Nachricht <span class="opt">(optional)</span></label>
+          <textarea id="f-text" name="nachricht" placeholder="z. B. Mo–Fr 8–12 Uhr, Mo, Di, Do 15–18 Uhr"></textarea>
+        </div>
+        <button class="btn btn--primary btn--full" type="submit">Demo per E-Mail anfragen</button>
+        <p class="form__status" id="form-status" role="status" aria-live="polite"></p>
+        <p class="form__hint">Beim Absenden öffnet sich Ihr E-Mail-Programm mit der fertigen Nachricht. Auf dieser Website werden keine Formulardaten gespeichert. Mehr dazu in der <a href="datenschutz.html">Datenschutzerklärung</a>.</p>
+      </form>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap footer__in">
+    <a class="logo" href="#top">
+      <svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="15" fill="#0f5c4c"/><g fill="#f6f1e7"><rect x="12" y="26" width="6" height="12" rx="3"/><rect x="23" y="17" width="6" height="30" rx="3"/><rect x="34" y="10" width="6" height="44" rx="3" fill="#f0b254"/><rect x="45" y="21" width="6" height="22" rx="3"/></g></svg>
+      <span>KI-Stimmen Edewecht</span>
+    </a>
+    <nav aria-label="Rechtliches">
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+      <a href="#kontakt">Kontakt</a>
+    </nav>
+    <p class="footer__copy">© <span id="jahr">2026</span> KI-Stimmen Edewecht. Telefonansagen für Praxen und Betriebe im Ammerland.</p>
+  </div>
+</footer>
+
+<script src="config.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
