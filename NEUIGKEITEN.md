@@ -14,6 +14,10 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 16.11.2026 – Claude: „Hören Sie selbst“ ist jetzt ein **Stimmen-Karussell** (`voices.js`): 7 Stimmen als farbige,
+  animierte Kugeln, die sich zur Stimme bewegen. Deutsch: Lea, Petra, Franziska, Stephan, Julius.
+  Englisch: Sarah, Daniel. Hörproben: `website/audio/stimme_*.mp3`. Alte Beispiel-Karten (player.js) entfernt,
+  die Beispiel-Audios liegen weiter in `website/audio/`. Englische Texte in `i18n.js` ergänzt.
 - 16.11.2026 – Claude: Hörproben-Karten neu gestaltet: weiße Karten mit Schatten, Fortschrittsbalken,
   Zeitanzeige, kleiner Equalizer, schimmernder Rahmen beim Abspielen (`style.css`, `player.js`).
 - 16.11.2026 – Claude: Website mehrsprachig: 🌐-Knopf oben rechts mit Deutsch, Englisch, Türkisch, Polnisch, Russisch, Ukrainisch, Arabisch (`website/i18n.js`).

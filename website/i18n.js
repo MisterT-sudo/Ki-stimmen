@@ -4,6 +4,12 @@
 (function () {
   var T = {
     en: {
+      "voices.text": "Choose your voice: swipe through our speakers and tap a sphere to listen.",
+      "lang.de": "German", "lang.en": "English", "gender.w": "female", "gender.m": "male",
+      "voice.lea": "Warm and friendly – our standard voice.", "voice.petra": "Confident and pleasant.",
+      "voice.franziska": "Neutral and trustworthy.", "voice.stephan": "Calm, warm and serious.",
+      "voice.julius": "Relaxed and likeable.", "voice.sarah": "English – clear and reassuring.",
+      "voice.daniel": "English (British) – composed like a news presenter.",
       "meta.title": "Ansagewerk – Professional phone announcements for your practice",
       "meta.desc": "Professional phone announcements for medical practices, physiotherapy and businesses in the Ammerland region. Greeting, on-hold, holiday and Christmas announcements – ready in 24 hours.",
       "nav.samples": "Samples", "nav.prices": "Prices", "nav.contact": "Contact",

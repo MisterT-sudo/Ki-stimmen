@@ -48,33 +48,56 @@
   <section id="hoerproben">
     <div class="wrap">
       <h2 data-i18n="samples.title">Hören Sie selbst</h2>
-      <p data-i18n="samples.text">Tippen Sie auf eine Blase – so klingen unsere Ansagen (am Beispiel erfundener Betriebe).</p>
-      <div class="orbs">
-        <button class="orb-card" data-src="audio/1_begruessung.mp3" aria-label="Begrüßung abspielen">
-          <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b data-i18n="orb1.t">Begrüßung</b><small data-i18n="orb1.d">Der erste Eindruck, bevor Sie den Hörer abnehmen.</small></span>
-        </button>
-        <button class="orb-card" data-src="audio/2_warteschleife.mp3" aria-label="Warteschleife abspielen">
-          <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b data-i18n="orb2.t">Warteschleife</b><small data-i18n="orb2.d">Wenn alle Leitungen belegt sind – freundlich statt Tuten.</small></span>
-        </button>
-        <button class="orb-card" data-src="audio/3_ausserhalb_sprechzeiten.mp3" aria-label="Außerhalb der Sprechzeiten abspielen">
-          <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b data-i18n="orb3.t">Außerhalb der Sprechzeiten</b><small data-i18n="orb3.d">Mit Bereitschaftsdienst 116&nbsp;117 und Notruf.</small></span>
-        </button>
-        <button class="orb-card" data-src="audio/4_weihnachten.mp3" aria-label="Weihnachten / Urlaub abspielen">
-          <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b data-i18n="orb4.t">Weihnachten / Urlaub</b><small data-i18n="orb4.d">Geänderte Öffnungszeiten zwischen den Jahren.</small></span>
-        </button>
-        <button class="orb-card" data-src="audio/5_handwerker.mp3" aria-label="Handwerksbetrieb abspielen">
-          <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b data-i18n="orb5.t">Handwerksbetrieb</b><small data-i18n="orb5.d">Anrufbeantworter für einen Elektrobetrieb.</small></span>
-        </button>
-        <button class="orb-card" data-src="audio/6_englisch.mp3" aria-label="Englisch abspielen">
-          <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b data-i18n="orb6.t">Englisch</b><small data-i18n="orb6.d">Dieselbe Stimme – auch für internationale Patienten.</small></span>
-        </button>
+      <p data-i18n="voices.text">Wählen Sie Ihre Stimme: Wischen Sie durch unsere Sprecherinnen und Sprecher und tippen Sie auf eine Kugel.</p>
+      <div class="voices-wrap">
+        <button class="voices-nav prev" aria-label="Zurück">‹</button>
+        <div class="voices">
+          <div class="voice" data-src="audio/stimme_lea.mp3" data-colors="#ffd27a,#ff9f68,#7ed98b,#2fbf71,#b9f5e8">
+            <button class="voice-orb" aria-label="Stimme Lea abspielen"><canvas></canvas><span class="voice-play">▶</span></button>
+            <h3>Lea</h3>
+            <p class="voice-tag"><span data-i18n="lang.de">Deutsch</span> · <span data-i18n="gender.w">weiblich</span></p>
+            <p class="voice-desc" data-i18n="voice.lea">Warm und freundlich – unsere Standardstimme.</p>
+          </div>
+          <div class="voice" data-src="audio/stimme_petra.mp3" data-colors="#ffb3c7,#ff7a85,#c9a7ff,#ffd6e0,#ffe3b3">
+            <button class="voice-orb" aria-label="Stimme Petra abspielen"><canvas></canvas><span class="voice-play">▶</span></button>
+            <h3>Petra</h3>
+            <p class="voice-tag"><span data-i18n="lang.de">Deutsch</span> · <span data-i18n="gender.w">weiblich</span></p>
+            <p class="voice-desc" data-i18n="voice.petra">Selbstbewusst und angenehm.</p>
+          </div>
+          <div class="voice" data-src="audio/stimme_franziska.mp3" data-colors="#a5d8ff,#4dabf7,#63e6be,#e7f5ff,#b2f2bb">
+            <button class="voice-orb" aria-label="Stimme Franziska abspielen"><canvas></canvas><span class="voice-play">▶</span></button>
+            <h3>Franziska</h3>
+            <p class="voice-tag"><span data-i18n="lang.de">Deutsch</span> · <span data-i18n="gender.w">weiblich</span></p>
+            <p class="voice-desc" data-i18n="voice.franziska">Neutral und vertrauenswürdig.</p>
+          </div>
+          <div class="voice" data-src="audio/stimme_stephan.mp3" data-colors="#4263eb,#1c7ed6,#22b8cf,#91a7ff,#d0ebff">
+            <button class="voice-orb" aria-label="Stimme Stephan abspielen"><canvas></canvas><span class="voice-play">▶</span></button>
+            <h3>Stephan</h3>
+            <p class="voice-tag"><span data-i18n="lang.de">Deutsch</span> · <span data-i18n="gender.m">männlich</span></p>
+            <p class="voice-desc" data-i18n="voice.stephan">Ruhig, warm und seriös.</p>
+          </div>
+          <div class="voice" data-src="audio/stimme_julius.mp3" data-colors="#ffa94d,#ff6b6b,#ffd43b,#ff8787,#fff3bf">
+            <button class="voice-orb" aria-label="Stimme Julius abspielen"><canvas></canvas><span class="voice-play">▶</span></button>
+            <h3>Julius</h3>
+            <p class="voice-tag"><span data-i18n="lang.de">Deutsch</span> · <span data-i18n="gender.m">männlich</span></p>
+            <p class="voice-desc" data-i18n="voice.julius">Locker und sympathisch.</p>
+          </div>
+          <div class="voice" data-src="audio/stimme_sarah.mp3" data-colors="#b197fc,#748ffc,#f783ac,#e5dbff,#a5d8ff">
+            <button class="voice-orb" aria-label="Stimme Sarah abspielen"><canvas></canvas><span class="voice-play">▶</span></button>
+            <h3>Sarah</h3>
+            <p class="voice-tag"><span data-i18n="lang.en">Englisch</span> · <span data-i18n="gender.w">weiblich</span></p>
+            <p class="voice-desc" data-i18n="voice.sarah">Englisch – klar und beruhigend.</p>
+          </div>
+          <div class="voice" data-src="audio/stimme_daniel.mp3" data-colors="#20c997,#0ca678,#748ffc,#c3fae8,#96f2d7">
+            <button class="voice-orb" aria-label="Stimme Daniel abspielen"><canvas></canvas><span class="voice-play">▶</span></button>
+            <h3>Daniel</h3>
+            <p class="voice-tag"><span data-i18n="lang.en">Englisch</span> · <span data-i18n="gender.m">männlich</span></p>
+            <p class="voice-desc" data-i18n="voice.daniel">Englisch (britisch) – souverän wie ein Nachrichtensprecher.</p>
+          </div>
+        </div>
+        <button class="voices-nav next" aria-label="Weiter">›</button>
       </div>
+      <div class="voices-dots"></div>
     </div>
   </section>
 
@@ -180,7 +203,7 @@
   </div>
 </footer>
 
-<script src="player.js"></script>
+<script src="voices.js"></script>
 <script src="i18n.js"></script>
 </body>
 </html>
