@@ -2,6 +2,20 @@
 
 Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes`
 
+## 📌 Aktueller Stand (16.11.2026) – für Nico zum schnellen Überblick
+
+- **Firmenname:** Praxistimmen Ammerland · **E-Mail:** praxistimmen@gmx.net · Auftritt als „Tom & Nico“
+- **Stimme:** Lea (ElevenLabs). Demo-Paket fertig in `hoerproben/demo_paket_lea/`
+- **Preise:** Einzelansage 39 € · Paket „Praxis komplett“ 99 € · Änderungsservice 9 €/Monat
+- **Infoblatt:** `infoblatt/infoblatt_entwurf.pdf`, druckfertig bis auf QR-Code
+- **Website:** `website/` (Startseite mit Hörproben, Preise, FAQ, Impressum, Datenschutz). Noch nicht online.
+- **Zielliste:** `zielliste_edewecht.md` (17 Praxen)
+- **Offen:** Gewerbe anmelden (beide) · Website online stellen · Impressum mit echten Namen · Gesprächsskript
+
+## Verlauf
+
+- 16.11.2026 – Claude: Website gebaut (`website/`). Impressum/Datenschutz haben gelbe Platzhalter
+  (echte Namen + Adresse nötig). Nächster Schritt: Hoster wählen und online stellen, dann QR-Code aufs Infoblatt.
 - 16.11.2026 – Claude: Infoblatt-Entwurf erstellt (`infoblatt/`). Gelb markierte Stellen fehlen noch:
   Firmenname, Telefon/WhatsApp, E-Mail, Name, QR-Code. Bearbeiten in `infoblatt/infoblatt.html`.
 - 16.11.2026 – Theo: Stimme **Lea** ausgewählt. Creator-Plan gekündigt, ab nächstem Monat Starter.
