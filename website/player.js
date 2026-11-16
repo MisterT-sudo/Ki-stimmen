@@ -2,6 +2,15 @@
 (function () {
   var audio = new Audio(), ctx, analyser, data, current = null;
   var cards = [].slice.call(document.querySelectorAll('.orb-card'));
+  function fmt(s) { s = Math.round(s || 0); return Math.floor(s / 60) + ':' + ('0' + s % 60).slice(-2); }
+  cards.forEach(function (card) {
+    var meta = document.createElement('span'); meta.className = 'orb-meta';
+    meta.innerHTML = '<span class="eq"><i></i><i></i><i></i><i></i><i></i></span><span class="orb-time">–:––</span>';
+    card.appendChild(meta);
+    var bar = document.createElement('span'); bar.className = 'orb-bar'; card.appendChild(bar);
+    var probe = new Audio(); probe.preload = 'metadata'; probe.src = card.dataset.src;
+    probe.addEventListener('loadedmetadata', function () { card.dataset.dur = probe.duration; meta.lastChild.textContent = fmt(probe.duration); });
+  });
   var state = cards.map(function (card, i) {
     var cv = card.querySelector('canvas'), dpr = Math.min(window.devicePixelRatio || 1, 2);
     cv.width = 76 * dpr; cv.height = 76 * dpr;
@@ -74,6 +83,13 @@
   function frame(ms) {
     var t = ms / 1000;
     state.forEach(function (s) { draw(s, t); });
+    if (current) {
+      var s = state[cards.indexOf(current)], bars = current.querySelectorAll('.eq i');
+      for (var i = 0; i < bars.length; i++) bars[i].style.height = (4 + 14 * Math.min(1, s.lvl * (0.7 + 0.6 * Math.abs(Math.sin(t * (6 + i * 1.7) + i))))) + 'px';
+      var d = audio.duration || +current.dataset.dur || 1;
+      current.querySelector('.orb-bar').style.width = (audio.currentTime / d * 100) + '%';
+      current.querySelector('.orb-time').textContent = fmt(audio.currentTime) + ' / ' + fmt(d);
+    }
     requestAnimationFrame(frame);
   }
   requestAnimationFrame(frame);
@@ -81,6 +97,9 @@
   function stop() {
     if (!current) return;
     current.classList.remove('playing');
+    current.querySelector('.orb-bar').style.width = '0';
+    current.querySelectorAll('.eq i').forEach(function (b) { b.style.height = '4px'; });
+    current.querySelector('.orb-time').textContent = fmt(+current.dataset.dur);
     current.querySelector('.orb-icon').textContent = '▶';
     current = null;
   }
