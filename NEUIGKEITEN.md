@@ -2,6 +2,8 @@
 
 Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes`
 
+- 16.11.2026 – Claude: Infoblatt-Entwurf erstellt (`infoblatt/`). Gelb markierte Stellen fehlen noch:
+  Firmenname, Telefon/WhatsApp, E-Mail, Name, QR-Code. Bearbeiten in `infoblatt/infoblatt.html`.
 - 16.11.2026 – Theo: Stimme **Lea** ausgewählt. Creator-Plan gekündigt, ab nächstem Monat Starter.
 - 16.11.2026 – Claude: Demo-Paket „Praxis komplett“ mit Lea erstellt (`hoerproben/demo_paket_lea/`):
   Begrüßung, Warteschleife, außerhalb Sprechzeiten, Weihnachten. Texte in `TEXTE.md`.
