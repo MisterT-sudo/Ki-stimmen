@@ -98,10 +98,16 @@
       if (current === el) { audio.pause(); stop(); return; }
       stop(); current = el; el.classList.add('playing');
       el.querySelector('.voice-play').textContent = '❚❚';
-      audio.src = el.dataset.src; audio.play();
+      var lang = (document.documentElement.lang || 'de').slice(0, 2);
+      if (['de','en','tr','pl','ru','uk','ar'].indexOf(lang) < 0) lang = 'de';
+      audio.src = 'audio/stimmen/' + lang + '/' + el.dataset.voice + '.mp3'; audio.play();
     });
   });
   audio.addEventListener('ended', stop);
+
+  // Sprache gewechselt -> laufende Probe stoppen
+  new MutationObserver(function () { if (current) { audio.pause(); stop(); } })
+    .observe(document.documentElement, { attributes: true, attributeFilter: ['lang'] });
 
   onScroll(); requestAnimationFrame(frame);
 })();

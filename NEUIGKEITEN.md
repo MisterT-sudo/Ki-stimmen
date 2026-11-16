@@ -14,6 +14,10 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 16.11.2026 – Claude: Stimmproben wechseln jetzt mit der Website-Sprache: alle 7 Stimmen in allen 7 Sprachen
+  (DE, EN, TR, PL, RU, UK, AR) unter `website/audio/stimmen/<sprache>/<stimme>.mp3`. Übersetzungen der
+  Stimmen-Texte in `i18n.js` ergänzt. CSS/JS werden mit `?v=` geladen (gegen alten Browser-Cache) –
+  bei Änderungen die Zahl erhöhen.
 - 16.11.2026 – Claude: „Hören Sie selbst“ ist jetzt ein **Stimmen-Karussell** (`voices.js`): 7 Stimmen als farbige,
   animierte Kugeln, die sich zur Stimme bewegen. Deutsch: Lea, Petra, Franziska, Stephan, Julius.
   Englisch: Sarah, Daniel. Hörproben: `website/audio/stimme_*.mp3`. Alte Beispiel-Karten (player.js) entfernt,
