@@ -74,28 +74,21 @@ footer a { margin-right: 16px; color: var(--muted); }
   .btn.ghost { margin: 10px 0 0; }
 }
 
-/* Kugel-Player */
+/* Sprechblasen-Player */
 .orbs { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; }
 .orb-card {
   display: flex; align-items: center; gap: 16px; text-align: left; width: 100%;
-  background: var(--soft); border: 1.5px solid transparent; border-radius: 14px;
-  padding: 14px 16px; cursor: pointer; font: inherit; color: inherit; transition: border-color .2s;
+  background: var(--soft); border: 1.5px solid transparent; border-radius: 16px;
+  padding: 12px 16px; cursor: pointer; font: inherit; color: inherit; transition: border-color .2s, box-shadow .2s;
 }
-.orb-card:hover, .orb-card.playing { border-color: var(--teal); }
-.orb {
-  --lvl: 0; position: relative; flex: none; width: 64px; height: 64px; border-radius: 50%;
-  display: grid; place-items: center;
-}
-.orb-core {
-  position: absolute; inset: 0; border-radius: 50%;
-  background: radial-gradient(circle at 35% 30%, #99f6e4, #14b8a6 45%, #0b3b44 100%);
-  box-shadow: 0 0 calc(6px + var(--lvl) * 30px) rgba(20,184,166,calc(.35 + var(--lvl) * .5));
-  transform: scale(calc(1 + var(--lvl) * .22));
-  transition: transform .06s linear, box-shadow .06s linear;
-}
-.orb-card.playing .orb-core { animation: swirl 3s linear infinite; }
-@keyframes swirl { to { filter: hue-rotate(40deg); } }
-.orb-icon { position: relative; color: #fff; font-size: 20px; text-shadow: 0 1px 3px rgba(0,0,0,.4); }
+.orb-card:hover, .orb-card.playing { border-color: var(--teal); box-shadow: 0 6px 20px rgba(15,118,110,.12); }
+.orb { position: relative; flex: none; width: 76px; height: 76px; display: grid; place-items: center; }
+.orb canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+.orb-icon { position: relative; color: var(--dark); font-size: 18px; opacity: .75; transition: opacity .2s; }
+.orb-card.playing .orb-icon { opacity: 0; }
+.orb-card.playing:hover .orb-icon { opacity: .6; }
 .orb-text b { display: block; color: var(--dark); font-size: 17px; }
 .orb-text small { color: var(--muted); font-size: 14px; }
 .step strong { color: var(--dark); }
+header nav a.lang { border: 1.5px solid var(--line); border-radius: 6px; padding: 2px 8px; font-weight: 600; color: var(--dark); }
+@media (max-width: 560px) { header nav { display: block; } header nav a:not(.lang) { display: none; } }

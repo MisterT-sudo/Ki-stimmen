@@ -14,6 +14,8 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 16.11.2026 – Claude: Website: Player jetzt als weiße, animierte Sprechblasen (Canvas, reagiert auf die Stimme).
+  Englische Version `website/en.html`, Umschalter DE/EN oben rechts.
 - 16.11.2026 – Claude: Website: Hörproben jetzt als pulsierende Kugeln (`player.js`), 2 neue Beispiele
   (Handwerker, Englisch), neuer Abschnitt „Jede Sprache / Voice-Cloning“. Doppelte Pages-Automatik entfernt.
 - 16.11.2026 – Claude: **Website ist online** (GitHub Pages). Infoblatt mit echtem QR-Code (`infoblatt/infoblatt_druck.pdf`), QR-Code per Scan-Test geprüft.
