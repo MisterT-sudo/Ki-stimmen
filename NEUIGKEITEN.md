@@ -14,6 +14,8 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 16.11.2026 – Claude: Website: Hörproben jetzt als pulsierende Kugeln (`player.js`), 2 neue Beispiele
+  (Handwerker, Englisch), neuer Abschnitt „Jede Sprache / Voice-Cloning“. Doppelte Pages-Automatik entfernt.
 - 16.11.2026 – Claude: **Website ist online** (GitHub Pages). Infoblatt mit echtem QR-Code (`infoblatt/infoblatt_druck.pdf`), QR-Code per Scan-Test geprüft.
 - 16.11.2026 – Claude: Impressum (Theo Lennox Pophanken & Niklas Schürmann GbR, Edewecht) und Datenschutz (Hoster GitHub Pages) ausgefüllt.
   Automatisches Veröffentlichen eingerichtet (`.github/workflows/website.yml`). Repo ist öffentlich, Zielliste bleibt bewusst drin.

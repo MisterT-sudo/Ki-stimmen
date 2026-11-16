@@ -32,29 +32,45 @@
   <section id="hoerproben">
     <div class="wrap">
       <h2>Hören Sie selbst</h2>
-      <p>So klingt unser Paket „Praxis komplett“ – am Beispiel einer erfundenen Praxis.</p>
-      <div class="samples">
-        <div class="sample">
-          <h3>Begrüßung</h3>
-          <p>Der erste Eindruck, bevor Sie den Hörer abnehmen.</p>
-          <audio controls preload="none" src="audio/1_begruessung.mp3"></audio>
-        </div>
-        <div class="sample">
-          <h3>Warteschleife</h3>
-          <p>Wenn alle Leitungen belegt sind – freundlich statt Tuten.</p>
-          <audio controls preload="none" src="audio/2_warteschleife.mp3"></audio>
-        </div>
-        <div class="sample">
-          <h3>Außerhalb der Sprechzeiten</h3>
-          <p>Mit Sprechzeiten, Bereitschaftsdienst 116&nbsp;117 und Notruf.</p>
-          <audio controls preload="none" src="audio/3_ausserhalb_sprechzeiten.mp3"></audio>
-        </div>
-        <div class="sample">
-          <h3>Weihnachten / Urlaub</h3>
-          <p>Geänderte Öffnungszeiten zwischen den Jahren.</p>
-          <audio controls preload="none" src="audio/4_weihnachten.mp3"></audio>
-        </div>
+      <p>Tippen Sie auf eine Kugel – so klingen unsere Ansagen (am Beispiel erfundener Betriebe).</p>
+      <div class="orbs">
+        <button class="orb-card" data-src="audio/1_begruessung.mp3" aria-label="Begrüßung abspielen">
+          <span class="orb"><span class="orb-core"></span><span class="orb-icon">▶</span></span>
+          <span class="orb-text"><b>Begrüßung</b><small>Der erste Eindruck, bevor Sie den Hörer abnehmen.</small></span>
+        </button>
+        <button class="orb-card" data-src="audio/2_warteschleife.mp3" aria-label="Warteschleife abspielen">
+          <span class="orb"><span class="orb-core"></span><span class="orb-icon">▶</span></span>
+          <span class="orb-text"><b>Warteschleife</b><small>Wenn alle Leitungen belegt sind – freundlich statt Tuten.</small></span>
+        </button>
+        <button class="orb-card" data-src="audio/3_ausserhalb_sprechzeiten.mp3" aria-label="Außerhalb der Sprechzeiten abspielen">
+          <span class="orb"><span class="orb-core"></span><span class="orb-icon">▶</span></span>
+          <span class="orb-text"><b>Außerhalb der Sprechzeiten</b><small>Mit Bereitschaftsdienst 116&nbsp;117 und Notruf.</small></span>
+        </button>
+        <button class="orb-card" data-src="audio/4_weihnachten.mp3" aria-label="Weihnachten / Urlaub abspielen">
+          <span class="orb"><span class="orb-core"></span><span class="orb-icon">▶</span></span>
+          <span class="orb-text"><b>Weihnachten / Urlaub</b><small>Geänderte Öffnungszeiten zwischen den Jahren.</small></span>
+        </button>
+        <button class="orb-card" data-src="audio/5_handwerker.mp3" aria-label="Handwerksbetrieb abspielen">
+          <span class="orb"><span class="orb-core"></span><span class="orb-icon">▶</span></span>
+          <span class="orb-text"><b>Handwerksbetrieb</b><small>Anrufbeantworter für einen Elektrobetrieb.</small></span>
+        </button>
+        <button class="orb-card" data-src="audio/6_englisch.mp3" aria-label="Englisch abspielen">
+          <span class="orb"><span class="orb-core"></span><span class="orb-icon">▶</span></span>
+          <span class="orb-text"><b>Englisch</b><small>Dieselbe Stimme – auch für internationale Patienten.</small></span>
+        </button>
       </div>
+    </div>
+  </section>
+
+  <section id="mehr">
+    <div class="wrap">
+      <h2>Jede Sprache. Auf Wunsch Ihre eigene Stimme.</h2>
+      <div class="steps">
+        <div class="step"><b>🌍</b><strong>Alle gängigen Sprachen</strong><br>Deutsch, Englisch, Türkisch, Russisch, Polnisch, Arabisch, Ukrainisch und viele mehr – ideal für Praxen mit internationalen Patienten.</div>
+        <div class="step"><b>🎙️</b><strong>Voice-Cloning</strong><br>Ihre Ansage mit Ihrer eigenen Stimme: Wir erstellen aus einer kurzen Aufnahme eine digitale Version – nur mit Ihrem ausdrücklichen Einverständnis.</div>
+        <div class="step"><b>🎚️</b><strong>Verschiedene Stimmen</strong><br>Weiblich oder männlich, jung oder seriös, ruhig oder herzlich – Sie wählen die Stimme, die zu Ihnen passt.</div>
+      </div>
+      <p class="fine">Fremdsprachen und Voice-Cloning auf Anfrage.</p>
     </div>
   </section>
 
@@ -147,5 +163,6 @@
   </div>
 </footer>
 
+<script src="player.js"></script>
 </body>
 </html>
