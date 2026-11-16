@@ -148,33 +148,33 @@ footer a { margin-right: 16px; color: var(--muted); }
 .voices-wrap { position: relative; background: #f5f4f2; border-radius: 24px; padding: 10px 0 18px; overflow: hidden; }
 .voices {
   display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none;
-  padding: 18px calc(50% - 130px) 4px; gap: 10px; scroll-behavior: smooth;
+  padding: 16px calc(50% - 100px) 4px; gap: 10px; scroll-behavior: smooth;
 }
 .voices::-webkit-scrollbar { display: none; }
 .voice {
-  flex: 0 0 260px; scroll-snap-align: center; text-align: center;
-  transition: transform .35s ease, opacity .35s ease; opacity: .45; transform: scale(.78);
+  flex: 0 0 200px; scroll-snap-align: center; text-align: center;
+  transition: transform .35s ease, opacity .35s ease; opacity: .4; transform: scale(.8);
 }
 .voice.active { opacity: 1; transform: scale(1); }
 .voice-orb {
-  position: relative; width: 230px; height: 230px; margin: 0 auto 14px; display: block;
+  position: relative; width: 150px; height: 150px; margin: 0 auto 12px; display: block;
   border: 0; padding: 0; background: none; cursor: pointer; border-radius: 50%;
 }
 .voice-orb canvas { position: absolute; inset: -15px; width: calc(100% + 30px); height: calc(100% + 30px); }
 .voice-play {
-  position: absolute; left: 50%; top: 50%; width: 68px; height: 68px; margin: -34px 0 0 -34px;
+  position: absolute; left: 50%; top: 50%; width: 46px; height: 46px; margin: -23px 0 0 -23px;
   border-radius: 50%; background: #fff; color: #111; display: grid; place-items: center;
-  font-size: 22px; padding-left: 4px; box-shadow: 0 4px 18px rgba(0,0,0,.12);
+  font-size: 15px; padding-left: 3px; box-shadow: 0 2px 10px rgba(0,0,0,.1);
   transition: transform .2s, opacity .3s;
 }
 .voice-orb:hover .voice-play { transform: scale(1.06); }
-.voice.playing .voice-play { padding-left: 0; font-size: 18px; letter-spacing: -2px; }
-.voice h3 { margin: 0 0 2px; font-size: 22px; color: #111; font-weight: 600; }
+.voice.playing .voice-play { padding-left: 0; font-size: 13px; letter-spacing: -2px; }
+.voice h3 { margin: 0 0 2px; font-size: 19px; color: #111; font-weight: 600; }
 .voice-tag { margin: 0 0 6px; font-size: 13px; letter-spacing: .04em; text-transform: uppercase; color: var(--teal); font-weight: 600; }
 .voice-desc { margin: 0 auto; max-width: 240px; font-size: 15px; color: #6b6b6b; line-height: 1.45; }
 .voices-nav {
-  position: absolute; top: 150px; z-index: 2; width: 44px; height: 44px; border-radius: 50%;
-  border: 0; background: #fff; box-shadow: 0 2px 10px rgba(0,0,0,.1); font-size: 26px; line-height: 1;
+  position: absolute; top: 92px; z-index: 2; width: 36px; height: 36px; border-radius: 50%;
+  border: 0; background: #fff; box-shadow: 0 2px 10px rgba(0,0,0,.1); font-size: 22px; line-height: 1;
   color: #333; cursor: pointer;
 }
 .voices-nav.prev { left: 12px; } .voices-nav.next { right: 12px; }
