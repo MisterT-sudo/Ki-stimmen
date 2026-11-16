@@ -14,6 +14,9 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 16.11.2026 – Claude: Website mehrsprachig: 🌐-Knopf oben rechts mit Deutsch, Englisch, Türkisch, Polnisch, Russisch, Ukrainisch, Arabisch (`website/i18n.js`).
+  Ersetzt den DE/EN-Umschalter; `en.html` leitet jetzt auf die englische Fassung weiter. Rechtstexte bleiben Deutsch.
+  Übersetzungen am besten von Muttersprachlern gegenlesen lassen. **Texte auf der Startseite ändern → `i18n.js` mitpflegen** (siehe Anleitung).
 - 16.11.2026 – Claude: Website: Player jetzt als weiße, animierte Sprechblasen (Canvas, reagiert auf die Stimme).
   Englische Version `website/en.html`, Umschalter DE/EN oben rechts.
 - 16.11.2026 – Claude: Website: Hörproben jetzt als pulsierende Kugeln (`player.js`), 2 neue Beispiele

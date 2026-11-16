@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ansagewerk – Professionelle Telefonansagen für Ihre Praxis</title>
-<meta name="description" content="Professionelle Telefonansagen für Arztpraxen, Physiotherapie und Betriebe im Ammerland. Begrüßung, Warteschleife, Urlaubs- und Weihnachtsansagen – fertig in 24 Stunden.">
+<title data-i18n="meta.title">Ansagewerk – Professionelle Telefonansagen für Ihre Praxis</title>
+<meta name="description" data-i18n-content="meta.desc" content="Professionelle Telefonansagen für Arztpraxen, Physiotherapie und Betriebe im Ammerland. Begrüßung, Warteschleife, Urlaubs- und Weihnachtsansagen – fertig in 24 Stunden.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,52 +12,67 @@
 <header>
   <div class="wrap">
     <a class="logo" href="#">Ansage<span>werk</span></a>
-    <nav>
-      <a href="#hoerproben">Hörproben</a>
-      <a href="#preise">Preise</a>
-      <a href="#kontakt">Kontakt</a>
-      <a class="lang" href="en.html" lang="en">EN</a>
-    </nav>
+    <div class="head-right">
+      <nav>
+        <a href="#hoerproben" data-i18n="nav.samples">Hörproben</a>
+        <a href="#preise" data-i18n="nav.prices">Preise</a>
+        <a href="#kontakt" data-i18n="nav.contact">Kontakt</a>
+      </nav>
+      <div class="lang">
+        <button type="button" class="lang-btn" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" aria-label="Sprache wählen / Choose language">
+          <span aria-hidden="true">🌐</span> <span class="lang-cur">DE</span>
+        </button>
+        <ul class="lang-menu" id="lang-menu" hidden>
+          <li><button type="button" data-lang="de" lang="de">Deutsch</button></li>
+          <li><button type="button" data-lang="en" lang="en">English</button></li>
+          <li><button type="button" data-lang="tr" lang="tr">Türkçe</button></li>
+          <li><button type="button" data-lang="pl" lang="pl">Polski</button></li>
+          <li><button type="button" data-lang="ru" lang="ru">Русский</button></li>
+          <li><button type="button" data-lang="uk" lang="uk">Українська</button></li>
+          <li><button type="button" data-lang="ar" lang="ar">العربية</button></li>
+        </ul>
+      </div>
+    </div>
   </div>
 </header>
 
 <main>
   <div class="wrap hero">
-    <h1>Professionelle Telefonansagen für Ihre Praxis – in 24&nbsp;Stunden.</h1>
-    <p>Ihre Patientinnen und Patienten hören eine freundliche, klare Stimme statt einer verrauschten
+    <h1 data-i18n="hero.title">Professionelle Telefonansagen für Ihre Praxis – in 24&nbsp;Stunden.</h1>
+    <p data-i18n="hero.text">Ihre Patientinnen und Patienten hören eine freundliche, klare Stimme statt einer verrauschten
       Handyaufnahme. Wir schreiben den Text, erstellen die Ansage und liefern die fertige Datei.</p>
-    <a class="btn" href="#hoerproben">Hörproben anhören</a>
-    <a class="btn ghost" href="#kontakt">Anfrage senden</a>
+    <a class="btn" href="#hoerproben" data-i18n="hero.cta1">Hörproben anhören</a>
+    <a class="btn ghost" href="#kontakt" data-i18n="hero.cta2">Anfrage senden</a>
   </div>
 
   <section id="hoerproben">
     <div class="wrap">
-      <h2>Hören Sie selbst</h2>
-      <p>Tippen Sie auf eine Blase – so klingen unsere Ansagen (am Beispiel erfundener Betriebe).</p>
+      <h2 data-i18n="samples.title">Hören Sie selbst</h2>
+      <p data-i18n="samples.text">Tippen Sie auf eine Blase – so klingen unsere Ansagen (am Beispiel erfundener Betriebe).</p>
       <div class="orbs">
         <button class="orb-card" data-src="audio/1_begruessung.mp3" aria-label="Begrüßung abspielen">
           <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b>Begrüßung</b><small>Der erste Eindruck, bevor Sie den Hörer abnehmen.</small></span>
+          <span class="orb-text"><b data-i18n="orb1.t">Begrüßung</b><small data-i18n="orb1.d">Der erste Eindruck, bevor Sie den Hörer abnehmen.</small></span>
         </button>
         <button class="orb-card" data-src="audio/2_warteschleife.mp3" aria-label="Warteschleife abspielen">
           <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b>Warteschleife</b><small>Wenn alle Leitungen belegt sind – freundlich statt Tuten.</small></span>
+          <span class="orb-text"><b data-i18n="orb2.t">Warteschleife</b><small data-i18n="orb2.d">Wenn alle Leitungen belegt sind – freundlich statt Tuten.</small></span>
         </button>
         <button class="orb-card" data-src="audio/3_ausserhalb_sprechzeiten.mp3" aria-label="Außerhalb der Sprechzeiten abspielen">
           <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b>Außerhalb der Sprechzeiten</b><small>Mit Bereitschaftsdienst 116&nbsp;117 und Notruf.</small></span>
+          <span class="orb-text"><b data-i18n="orb3.t">Außerhalb der Sprechzeiten</b><small data-i18n="orb3.d">Mit Bereitschaftsdienst 116&nbsp;117 und Notruf.</small></span>
         </button>
         <button class="orb-card" data-src="audio/4_weihnachten.mp3" aria-label="Weihnachten / Urlaub abspielen">
           <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b>Weihnachten / Urlaub</b><small>Geänderte Öffnungszeiten zwischen den Jahren.</small></span>
+          <span class="orb-text"><b data-i18n="orb4.t">Weihnachten / Urlaub</b><small data-i18n="orb4.d">Geänderte Öffnungszeiten zwischen den Jahren.</small></span>
         </button>
         <button class="orb-card" data-src="audio/5_handwerker.mp3" aria-label="Handwerksbetrieb abspielen">
           <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b>Handwerksbetrieb</b><small>Anrufbeantworter für einen Elektrobetrieb.</small></span>
+          <span class="orb-text"><b data-i18n="orb5.t">Handwerksbetrieb</b><small data-i18n="orb5.d">Anrufbeantworter für einen Elektrobetrieb.</small></span>
         </button>
         <button class="orb-card" data-src="audio/6_englisch.mp3" aria-label="Englisch abspielen">
           <span class="orb"><canvas></canvas><span class="orb-icon">▶</span></span>
-          <span class="orb-text"><b>Englisch</b><small>Dieselbe Stimme – auch für internationale Patienten.</small></span>
+          <span class="orb-text"><b data-i18n="orb6.t">Englisch</b><small data-i18n="orb6.d">Dieselbe Stimme – auch für internationale Patienten.</small></span>
         </button>
       </div>
     </div>
@@ -65,105 +80,107 @@
 
   <section id="mehr">
     <div class="wrap">
-      <h2>Jede Sprache. Auf Wunsch Ihre eigene Stimme.</h2>
+      <h2 data-i18n="more.title">Jede Sprache. Auf Wunsch Ihre eigene Stimme.</h2>
       <div class="steps">
-        <div class="step"><b>🌍</b><strong>Alle gängigen Sprachen</strong><br>Deutsch, Englisch, Türkisch, Russisch, Polnisch, Arabisch, Ukrainisch und viele mehr – ideal für Praxen mit internationalen Patienten.</div>
-        <div class="step"><b>🎙️</b><strong>Voice-Cloning</strong><br>Ihre Ansage mit Ihrer eigenen Stimme: Wir erstellen aus einer kurzen Aufnahme eine digitale Version – nur mit Ihrem ausdrücklichen Einverständnis.</div>
-        <div class="step"><b>🎚️</b><strong>Verschiedene Stimmen</strong><br>Weiblich oder männlich, jung oder seriös, ruhig oder herzlich – Sie wählen die Stimme, die zu Ihnen passt.</div>
+        <div class="step"><b>🌍</b><strong data-i18n="more.l.t">Alle gängigen Sprachen</strong><br><span data-i18n="more.l.d">Deutsch, Englisch, Türkisch, Russisch, Polnisch, Arabisch, Ukrainisch und viele mehr – ideal für Praxen mit internationalen Patienten.</span></div>
+        <div class="step"><b>🎙️</b><strong data-i18n="more.c.t">Voice-Cloning</strong><br><span data-i18n="more.c.d">Ihre Ansage mit Ihrer eigenen Stimme: Wir erstellen aus einer kurzen Aufnahme eine digitale Version – nur mit Ihrem ausdrücklichen Einverständnis.</span></div>
+        <div class="step"><b>🎚️</b><strong data-i18n="more.v.t">Verschiedene Stimmen</strong><br><span data-i18n="more.v.d">Weiblich oder männlich, jung oder seriös, ruhig oder herzlich – Sie wählen die Stimme, die zu Ihnen passt.</span></div>
       </div>
-      <p class="fine">Fremdsprachen und Voice-Cloning auf Anfrage.</p>
+      <p class="fine" data-i18n="more.fine">Fremdsprachen und Voice-Cloning auf Anfrage.</p>
     </div>
   </section>
 
   <section>
     <div class="wrap">
-      <h2>So einfach geht's</h2>
+      <h2 data-i18n="how.title">So einfach geht's</h2>
       <div class="steps">
-        <div class="step"><b>1</b>Sie nennen uns Ihre Sprechzeiten und Wünsche – per E-Mail oder direkt bei unserem Besuch.</div>
-        <div class="step"><b>2</b>Wir schreiben einen passenden Text und erstellen die Ansage mit einer natürlich klingenden KI-Stimme.</div>
-        <div class="step"><b>3</b>Sie erhalten die Datei in 24&nbsp;Stunden, passend für Ihre Telefonanlage. Auf Wunsch helfen wir beim Einspielen.</div>
+        <div class="step"><b>1</b><span data-i18n="how.1">Sie nennen uns Ihre Sprechzeiten und Wünsche – per E-Mail oder direkt bei unserem Besuch.</span></div>
+        <div class="step"><b>2</b><span data-i18n="how.2">Wir schreiben einen passenden Text und erstellen die Ansage mit einer natürlich klingenden KI-Stimme.</span></div>
+        <div class="step"><b>3</b><span data-i18n="how.3">Sie erhalten die Datei in 24&nbsp;Stunden, passend für Ihre Telefonanlage. Auf Wunsch helfen wir beim Einspielen.</span></div>
       </div>
     </div>
   </section>
 
   <section id="preise">
     <div class="wrap">
-      <h2>Preise</h2>
+      <h2 data-i18n="prices.title">Preise</h2>
       <div class="prices">
         <div class="price">
-          <h3>Einzelansage</h3>
+          <h3 data-i18n="p1.t">Einzelansage</h3>
           <div class="eur">39 €</div>
-          <ul><li>z.&nbsp;B. Urlaub oder Feiertage</li><li>1 Korrekturrunde inklusive</li></ul>
+          <ul><li data-i18n="p1.l1">z.&nbsp;B. Urlaub oder Feiertage</li><li data-i18n="p1.l2">1 Korrekturrunde inklusive</li></ul>
         </div>
         <div class="price hl">
-          <span class="tag">Beliebt</span>
-          <h3>Paket „Praxis komplett“</h3>
+          <span class="tag" data-i18n="p2.tag">Beliebt</span>
+          <h3 data-i18n="p2.t">Paket „Praxis komplett“</h3>
           <div class="eur">99 €</div>
-          <ul><li>Begrüßung</li><li>Warteschleife</li><li>Außerhalb der Sprechzeiten</li><li>Urlaub / Feiertage</li></ul>
+          <ul><li data-i18n="p2.l1">Begrüßung</li><li data-i18n="p2.l2">Warteschleife</li><li data-i18n="p2.l3">Außerhalb der Sprechzeiten</li><li data-i18n="p2.l4">Urlaub / Feiertage</li></ul>
         </div>
         <div class="price">
-          <h3>Änderungsservice</h3>
-          <div class="eur">9 € <small>/ Monat</small></div>
-          <ul><li>Unbegrenzt Änderungen</li><li>Lieferung in 24 h</li><li>Monatlich kündbar</li></ul>
+          <h3 data-i18n="p3.t">Änderungsservice</h3>
+          <div class="eur">9 € <small data-i18n="p3.per">/ Monat</small></div>
+          <ul><li data-i18n="p3.l1">Unbegrenzt Änderungen</li><li data-i18n="p3.l2">Lieferung in 24 h</li><li data-i18n="p3.l3">Monatlich kündbar</li></ul>
         </div>
       </div>
-      <p class="fine">Alle Preise sind Endpreise. Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.</p>
+      <p class="fine" data-i18n="prices.fine">Alle Preise sind Endpreise. Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.</p>
     </div>
   </section>
 
   <section>
     <div class="wrap">
       <div class="xmas">
-        <h2>Zwischen den Jahren geschlossen?</h2>
-        Ihre Weihnachtsansage mit geänderten Öffnungszeiten, Vertretung und Bereitschaftsdienst –
-        bestellen Sie bis zum 18.12., dann ist sie sicher vor den Feiertagen fertig.
+        <h2 data-i18n="xmas.title">Zwischen den Jahren geschlossen?</h2>
+        <span data-i18n="xmas.text">Ihre Weihnachtsansage mit geänderten Öffnungszeiten, Vertretung und Bereitschaftsdienst –
+        bestellen Sie bis zum 18.12., dann ist sie sicher vor den Feiertagen fertig.</span>
       </div>
     </div>
   </section>
 
   <section class="faq">
     <div class="wrap">
-      <h2>Häufige Fragen</h2>
+      <h2 data-i18n="faq.title">Häufige Fragen</h2>
       <details>
-        <summary>Ist das eine echte Sprecherin?</summary>
-        <p>Nein, wir verwenden eine hochwertige KI-Stimme. Dadurch sind wir schnell und günstig –
+        <summary data-i18n="faq1.q">Ist das eine echte Sprecherin?</summary>
+        <p data-i18n="faq1.a">Nein, wir verwenden eine hochwertige KI-Stimme. Dadurch sind wir schnell und günstig –
           und Änderungen sind jederzeit innerhalb von 24 Stunden möglich, ohne neuen Studiotermin.</p>
       </details>
       <details>
-        <summary>Funktioniert das mit meiner Telefonanlage?</summary>
-        <p>In aller Regel ja. Wir liefern die Datei in dem Format, das Ihre Anlage braucht
+        <summary data-i18n="faq2.q">Funktioniert das mit meiner Telefonanlage?</summary>
+        <p data-i18n="faq2.a">In aller Regel ja. Wir liefern die Datei in dem Format, das Ihre Anlage braucht
           (z.&nbsp;B. MP3 oder WAV). Sagen Sie uns einfach, welche Anlage Sie haben – oder wir helfen beim Einspielen.</p>
       </details>
       <details>
-        <summary>Wer schreibt den Text?</summary>
-        <p>Wir. Sie nennen uns nur die Eckdaten (Sprechzeiten, Vertretung, Besonderheiten),
+        <summary data-i18n="faq3.q">Wer schreibt den Text?</summary>
+        <p data-i18n="faq3.a">Wir. Sie nennen uns nur die Eckdaten (Sprechzeiten, Vertretung, Besonderheiten),
           und Sie bekommen den Text vorab zur Freigabe.</p>
       </details>
       <details>
-        <summary>Was ist, wenn mir die Ansage nicht gefällt?</summary>
-        <p>Eine Korrekturrunde ist immer inklusive. Wir passen Text oder Betonung an, bis es passt.</p>
+        <summary data-i18n="faq4.q">Was ist, wenn mir die Ansage nicht gefällt?</summary>
+        <p data-i18n="faq4.a">Eine Korrekturrunde ist immer inklusive. Wir passen Text oder Betonung an, bis es passt.</p>
       </details>
     </div>
   </section>
 
   <section id="kontakt" class="contact">
     <div class="wrap">
-      <h2>Anfrage senden</h2>
-      <p>Schreiben Sie uns Ihre Wünsche – wir melden uns innerhalb von 24 Stunden und rufen Sie gerne zurück.</p>
+      <h2 data-i18n="contact.title">Anfrage senden</h2>
+      <p data-i18n="contact.text">Schreiben Sie uns Ihre Wünsche – wir melden uns innerhalb von 24 Stunden und rufen Sie gerne zurück.</p>
       <p><a class="mail" href="mailto:ansagewerk@gmail.com?subject=Anfrage%20Telefonansage">ansagewerk@gmail.com</a></p>
-      <p>Theo &amp; Niklas · Edewecht im Ammerland</p>
+      <p data-i18n="contact.who">Theo &amp; Niklas · Edewecht im Ammerland</p>
     </div>
   </section>
 </main>
 
 <footer>
   <div class="wrap">
-    <a href="impressum.html">Impressum</a>
-    <a href="datenschutz.html">Datenschutz</a>
+    <a href="impressum.html" data-i18n="footer.imprint">Impressum</a>
+    <a href="datenschutz.html" data-i18n="footer.privacy">Datenschutz</a>
     © 2026 Ansagewerk
+    <span class="legal-note" data-i18n="footer.note"></span>
   </div>
 </footer>
 
 <script src="player.js"></script>
+<script src="i18n.js"></script>
 </body>
 </html>

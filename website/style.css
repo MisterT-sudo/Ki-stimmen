@@ -90,5 +90,37 @@ footer a { margin-right: 16px; color: var(--muted); }
 .orb-text b { display: block; color: var(--dark); font-size: 17px; }
 .orb-text small { color: var(--muted); font-size: 14px; }
 .step strong { color: var(--dark); }
-header nav a.lang { border: 1.5px solid var(--line); border-radius: 6px; padding: 2px 8px; font-weight: 600; color: var(--dark); }
-@media (max-width: 560px) { header nav { display: block; } header nav a:not(.lang) { display: none; } }
+
+/* Sprachumschalter */
+.head-right { display: flex; align-items: center; gap: 6px; }
+.lang { position: relative; margin-inline-start: 12px; }
+.lang-btn {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 12px;
+  font: inherit; font-size: 15px; font-weight: 600; color: var(--dark); cursor: pointer;
+  background: #fff; border: 1.5px solid var(--line); border-radius: 999px;
+}
+.lang-btn:hover, .lang-btn[aria-expanded="true"] { border-color: var(--teal); }
+.lang-menu {
+  position: absolute; top: calc(100% + 6px); inset-inline-end: 0; z-index: 20;
+  list-style: none; margin: 0; padding: 6px; min-width: 170px;
+  background: #fff; border: 1px solid var(--line); border-radius: 12px;
+  box-shadow: 0 12px 30px -12px rgba(11, 59, 68, .35);
+}
+.lang-menu[hidden] { display: none; }
+.lang-menu button {
+  display: block; width: 100%; text-align: start; font: inherit; font-size: 15px; color: var(--text);
+  background: none; border: 0; border-radius: 8px; padding: 9px 12px; cursor: pointer;
+}
+.lang-menu button:hover, .lang-menu button:focus-visible { background: var(--soft); outline: none; }
+.lang-menu button[aria-current="true"] { color: var(--teal); font-weight: 700; }
+.legal-note { display: block; margin-top: 6px; }
+.legal-note:empty { display: none; }
+
+/* Rechts-nach-links (Arabisch) */
+[dir="rtl"] header nav a { margin-left: 0; margin-right: 18px; }
+[dir="rtl"] .btn.ghost { margin-left: 0; margin-right: 8px; }
+[dir="rtl"] .orb-card { text-align: right; }
+[dir="rtl"] .price .tag { left: auto; right: 18px; }
+[dir="rtl"] .price ul { padding-left: 0; padding-right: 20px; }
+[dir="rtl"] footer a { margin-right: 0; margin-left: 16px; }
+@media (max-width: 560px) { [dir="rtl"] .btn.ghost { margin: 10px 0 0; } }
