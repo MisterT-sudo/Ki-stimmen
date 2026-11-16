@@ -8,12 +8,14 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 - **Stimme:** Lea (ElevenLabs). Demo-Paket fertig in `hoerproben/demo_paket_lea/`
 - **Preise:** Einzelansage 39 € · Paket „Praxis komplett“ 99 € · Änderungsservice 9 €/Monat
 - **Infoblatt:** `infoblatt/infoblatt_druck_ohne_qr.pdf` ist **druckfertig**. Version mit QR-Code kommt, wenn die Website online ist.
-- **Website:** `website/` ist gebaut, aber noch nicht online. **Niklas übernimmt** → siehe `website/ANLEITUNG_NIKLAS.md`
+- **Website:** wird über GitHub Pages aus diesem Repo veröffentlicht: https://mistert-sudo.github.io/Ki-stimmen/ (Anleitung: `website/ANLEITUNG_NIKLAS.md`)
 - **Zielliste:** `zielliste_edewecht.md` (17 Praxen)
-- **Offen:** Gewerbe anmelden (beide) · Website: Impressum-Adresse + Hoster (Niklas) · Gesprächsskript
+- **Offen:** Gewerbe anmelden (beide) · GitHub Pages einschalten (Settings → Pages → „GitHub Actions“) · QR-Code aufs Infoblatt · Gesprächsskript
 
 ## Verlauf
 
+- 16.11.2026 – Claude: Impressum (Theo Lennox Pophanken & Niklas Schürmann GbR, Edewecht) und Datenschutz (Hoster GitHub Pages) ausgefüllt.
+  Automatisches Veröffentlichen eingerichtet (`.github/workflows/website.yml`). Repo ist öffentlich, Zielliste bleibt bewusst drin.
 - 16.11.2026 – Claude: Firmenname geändert auf **Ansagewerk**, E-Mail **ansagewerk@gmail.com**, Namen **Theo & Niklas**.
   Angepasst: Website (alle Seiten), Infoblatt (HTML + beide PDFs + Vorschau), Anleitung, diese Datei.
 - 16.11.2026 – Theo/Claude: Entscheidung: Website erst online, wenn Impressum-Adresse geklärt ist.

@@ -1,40 +1,34 @@
 # Anleitung Website – für Niklas
 
-Die Website ist fertig gebaut und liegt in diesem Ordner. Sie muss nur noch **vervollständigt
-und online gestellt** werden.
+Die Website liegt in diesem Ordner und wird **automatisch über GitHub Pages veröffentlicht**,
+sobald auf `main` etwas in `website/` geändert wird.
+
+Adresse: **https://mistert-sudo.github.io/Ki-stimmen/**
 
 ## Was drin ist
 
 | Datei | Inhalt |
 |---|---|
 | `index.html` | Startseite: Hörproben, Ablauf, Preise, Weihnachts-Hinweis, FAQ, Kontakt |
-| `impressum.html` | Impressum (Pflicht!) – **gelbe Platzhalter ausfüllen** |
-| `datenschutz.html` | Datenschutzerklärung (Entwurf) – **gelbe Platzhalter ausfüllen** |
+| `impressum.html` | Impressum (Theo & Niklas, GbR, Edewecht) |
+| `datenschutz.html` | Datenschutzerklärung (Hoster: GitHub Pages) |
 | `style.css` | Aussehen (Farben, Schriften) |
 | `audio/` | Die 4 Hörproben mit Stimme Lea |
-| `vorschau_handy.png` | So sieht es auf dem Handy aus |
+| `vorschau_handy.png` | So sieht es auf dem Handy aus (wird nicht veröffentlicht) |
 
-Zum Anschauen: `index.html` herunterladen und im Browser öffnen (den Ordner `audio/` und
-`style.css` daneben legen).
+## Etwas ändern
 
-## To-do bis die Seite online darf
+1. Datei in `website/` ändern und auf `main` hochladen.
+2. Nach 1–2 Minuten ist die Änderung online. Den Fortschritt siehst du im Repo unter **Actions**
+   („Website veröffentlichen“).
 
-1. **Adresse fürs Impressum klären.** Pflicht ist eine ladungsfähige Anschrift (kein Postfach).
-   Möglichkeiten: Impressum-Adressdienst (ca. 5–20 €/Monat, Post wird weitergeleitet) oder die
-   Adresse von Eltern/Verwandten (mit deren Einverständnis).
-2. **`impressum.html` ausfüllen:** echte volle Namen von beiden und die Adresse.
-3. **Hoster wählen.** Empfehlung: **Netlify** oder **Cloudflare Pages** (kostenlos, funktioniert mit
-   unserem privaten Repository, die Zielliste bleibt geheim). Als Ordner zum Veröffentlichen
-   `website` angeben.
-4. **`datenschutz.html`:** Name und Anschrift des Hosters eintragen und den gelben
-   Entwurfs-Hinweis entfernen. Am besten einmal mit einem Datenschutz-Generator gegenprüfen.
-5. **Link an Theo/Claude schicken** → dann kommt der QR-Code aufs Infoblatt.
+## Einmalig nötig (Kontobesitzer)
 
-**Wichtig:** Erst online stellen, wenn das Impressum vollständig ist. Sonst drohen Abmahnungen.
+Im Repo unter **Settings → Pages → Build and deployment → Source** „**GitHub Actions**“ auswählen.
 
-## Bis dahin
+## Noch offen
 
-Zum Verteilen gibt es `infoblatt/infoblatt_druck_ohne_qr.pdf` – das ist schon druckfertig.
-Die Hörproben spielen wir beim Besuch vom Handy vor.
+- Datenschutzerklärung einmal mit einem Datenschutz-Generator gegenprüfen.
+- Wenn ihr eine eigene Domain kauft (z. B. ansagewerk.de): unter Settings → Pages eintragen.
 
 Wenn du etwas änderst: kurz in `NEUIGKEITEN.md` eintragen.
