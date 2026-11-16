@@ -46,6 +46,9 @@
     display: flex; align-items: center; justify-content: center; text-align: center;
     font-size: 8.5pt; color: #0f766e; padding: 2mm;
   }
+  .qr--real { border: 0; padding: 0; }
+  .qr--real img { width: 100%; height: 100%; display: block; }
+  .contact .url { font-size: 9.5pt; color: #0f766e; margin-top: 1mm; }
   .contact { flex: 1; }
   .contact .big { font-size: 15pt; font-weight: 700; color: #0b3b44; }
   .ph { background: #fef08a; padding: 0 1mm; }
@@ -93,12 +96,13 @@
   </div>
 
   <div class="bottom">
-    <div class="qr">[QR-Code<br>zu den Hörproben]</div>
+    <div class="qr qr--real"><img src="qr_hoerproben.svg" alt="QR-Code zu den Hörproben"></div>
     <div class="contact">
-      <div>Hören Sie selbst – Hörproben per QR-Code oder wir spielen sie Ihnen direkt vor.</div>
+      <div>Hören Sie selbst – QR-Code scannen oder wir spielen Ihnen die Hörproben direkt vor.</div>
       <div class="big">ansagewerk@gmail.com</div>
       <div>Schreiben Sie uns einfach – wir rufen Sie gerne zurück.</div>
       <div>Theo &amp; Niklas, Edewecht</div>
+      <div class="url">mistert-sudo.github.io/Ki-stimmen</div>
     </div>
   </div>
 </div>

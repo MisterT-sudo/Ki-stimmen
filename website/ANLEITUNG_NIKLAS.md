@@ -22,10 +22,6 @@ Adresse: **https://mistert-sudo.github.io/Ki-stimmen/**
 2. Nach 1–2 Minuten ist die Änderung online. Den Fortschritt siehst du im Repo unter **Actions**
    („Website veröffentlichen“).
 
-## Einmalig nötig (Kontobesitzer)
-
-Im Repo unter **Settings → Pages → Build and deployment → Source** „**GitHub Actions**“ auswählen.
-
 ## Noch offen
 
 - Datenschutzerklärung einmal mit einem Datenschutz-Generator gegenprüfen.
