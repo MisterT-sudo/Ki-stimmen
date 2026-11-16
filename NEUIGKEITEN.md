@@ -2,20 +2,22 @@
 
 Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes`
 
-## 📌 Aktueller Stand (16.11.2026) – für Nico zum schnellen Überblick
+## 📌 Aktueller Stand (16.11.2026) – für Niklas zum schnellen Überblick
 
-- **Firmenname:** Praxistimmen Ammerland · **E-Mail:** praxistimmen@gmx.net · Auftritt als „Tom & Nico“
+- **Firmenname:** Ansagewerk · **E-Mail:** ansagewerk@gmail.com · Auftritt als „Theo & Niklas“
 - **Stimme:** Lea (ElevenLabs). Demo-Paket fertig in `hoerproben/demo_paket_lea/`
 - **Preise:** Einzelansage 39 € · Paket „Praxis komplett“ 99 € · Änderungsservice 9 €/Monat
 - **Infoblatt:** `infoblatt/infoblatt_druck_ohne_qr.pdf` ist **druckfertig**. Version mit QR-Code kommt, wenn die Website online ist.
-- **Website:** `website/` ist gebaut, aber noch nicht online. **Nico übernimmt** → siehe `website/ANLEITUNG_NICO.md`
+- **Website:** `website/` ist gebaut, aber noch nicht online. **Niklas übernimmt** → siehe `website/ANLEITUNG_NIKLAS.md`
 - **Zielliste:** `zielliste_edewecht.md` (17 Praxen)
-- **Offen:** Gewerbe anmelden (beide) · Website: Impressum-Adresse + Hoster (Nico) · Gesprächsskript
+- **Offen:** Gewerbe anmelden (beide) · Website: Impressum-Adresse + Hoster (Niklas) · Gesprächsskript
 
 ## Verlauf
 
+- 16.11.2026 – Claude: Firmenname geändert auf **Ansagewerk**, E-Mail **ansagewerk@gmail.com**, Namen **Theo & Niklas**.
+  Angepasst: Website (alle Seiten), Infoblatt (HTML + beide PDFs + Vorschau), Anleitung, diese Datei.
 - 16.11.2026 – Theo/Claude: Entscheidung: Website erst online, wenn Impressum-Adresse geklärt ist.
-  **Nico macht die Website fertig** (Anleitung: `website/ANLEITUNG_NICO.md`).
+  **Niklas macht die Website fertig** (Anleitung: `website/ANLEITUNG_NIKLAS.md`).
   Bis dahin: Infoblatt ohne QR-Code (`infoblatt/infoblatt_druck_ohne_qr.pdf`) + Hörproben vom Handy vorspielen.
 - 16.11.2026 – Claude: Website gebaut (`website/`). Impressum/Datenschutz haben gelbe Platzhalter
   (echte Namen + Adresse nötig). Nächster Schritt: Hoster wählen und online stellen, dann QR-Code aufs Infoblatt.

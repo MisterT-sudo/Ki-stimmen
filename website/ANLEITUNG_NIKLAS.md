@@ -1,4 +1,4 @@
-# Anleitung Website – für Nico
+# Anleitung Website – für Niklas
 
 Die Website ist fertig gebaut und liegt in diesem Ordner. Sie muss nur noch **vervollständigt
 und online gestellt** werden.
