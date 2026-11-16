@@ -7,13 +7,16 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 - **Firmenname:** Praxistimmen Ammerland · **E-Mail:** praxistimmen@gmx.net · Auftritt als „Tom & Nico“
 - **Stimme:** Lea (ElevenLabs). Demo-Paket fertig in `hoerproben/demo_paket_lea/`
 - **Preise:** Einzelansage 39 € · Paket „Praxis komplett“ 99 € · Änderungsservice 9 €/Monat
-- **Infoblatt:** `infoblatt/infoblatt_entwurf.pdf`, druckfertig bis auf QR-Code
-- **Website:** `website/` (Startseite mit Hörproben, Preise, FAQ, Impressum, Datenschutz). Noch nicht online.
+- **Infoblatt:** `infoblatt/infoblatt_druck_ohne_qr.pdf` ist **druckfertig**. Version mit QR-Code kommt, wenn die Website online ist.
+- **Website:** `website/` ist gebaut, aber noch nicht online. **Nico übernimmt** → siehe `website/ANLEITUNG_NICO.md`
 - **Zielliste:** `zielliste_edewecht.md` (17 Praxen)
-- **Offen:** Gewerbe anmelden (beide) · Website online stellen · Impressum mit echten Namen · Gesprächsskript
+- **Offen:** Gewerbe anmelden (beide) · Website: Impressum-Adresse + Hoster (Nico) · Gesprächsskript
 
 ## Verlauf
 
+- 16.11.2026 – Theo/Claude: Entscheidung: Website erst online, wenn Impressum-Adresse geklärt ist.
+  **Nico macht die Website fertig** (Anleitung: `website/ANLEITUNG_NICO.md`).
+  Bis dahin: Infoblatt ohne QR-Code (`infoblatt/infoblatt_druck_ohne_qr.pdf`) + Hörproben vom Handy vorspielen.
 - 16.11.2026 – Claude: Website gebaut (`website/`). Impressum/Datenschutz haben gelbe Platzhalter
   (echte Namen + Adresse nötig). Nächster Schritt: Hoster wählen und online stellen, dann QR-Code aufs Infoblatt.
 - 16.11.2026 – Claude: Infoblatt-Entwurf erstellt (`infoblatt/`). Gelb markierte Stellen fehlen noch:
