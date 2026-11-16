@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>Infoblatt – Telefonansagen für Ihre Praxis</title>
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; width: 210mm; height: 297mm;
+    font-family: "Helvetica Neue", Arial, sans-serif; color: #1f2a30;
+    font-size: 11pt; line-height: 1.45;
+  }
+  .page { padding: 16mm 17mm 12mm; height: 100%; display: flex; flex-direction: column; }
+  .brand { font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: #0f766e; font-size: 10pt; }
+  h1 { font-size: 25pt; line-height: 1.15; margin: 4mm 0 3mm; color: #0b3b44; }
+  .lead { font-size: 12.5pt; color: #3c4b52; margin: 0 0 7mm; max-width: 165mm; }
+  .problem {
+    background: #fff7ed; border-left: 4px solid #f59e0b; padding: 4mm 5mm; border-radius: 2mm;
+    margin-bottom: 7mm; font-size: 11pt;
+  }
+  h2 { font-size: 13pt; color: #0b3b44; margin: 0 0 3mm; }
+  .steps { display: flex; gap: 5mm; margin-bottom: 7mm; }
+  .step { flex: 1; background: #f0fdfa; border-radius: 2mm; padding: 4mm; }
+  .step b { display: block; color: #0f766e; font-size: 18pt; line-height: 1; margin-bottom: 1.5mm; }
+  .prices { display: flex; gap: 4mm; margin-bottom: 3mm; }
+  .price { flex: 1; border: 1.5px solid #cbd5d9; border-radius: 2.5mm; padding: 4mm; position: relative; }
+  .price.hl { border-color: #0f766e; background: #f0fdfa; }
+  .price .tag {
+    position: absolute; top: -3mm; left: 4mm; background: #0f766e; color: #fff;
+    font-size: 8pt; font-weight: 700; padding: .5mm 2mm; border-radius: 1mm; text-transform: uppercase;
+  }
+  .price h3 { margin: 0 0 1mm; font-size: 11.5pt; }
+  .price .eur { font-size: 21pt; font-weight: 700; color: #0b3b44; }
+  .price .eur small { font-size: 10pt; font-weight: 400; color: #55656c; }
+  .price ul { margin: 2mm 0 0; padding-left: 4.5mm; font-size: 9.5pt; color: #3c4b52; }
+  .fine { font-size: 8.5pt; color: #6b7a80; margin-bottom: 6mm; }
+  .xmas {
+    background: #0b3b44; color: #fff; border-radius: 2.5mm; padding: 4mm 5mm; margin-bottom: 7mm;
+    display: flex; justify-content: space-between; align-items: center; gap: 5mm;
+  }
+  .xmas strong { font-size: 12.5pt; }
+  .bottom { display: flex; gap: 7mm; align-items: center; margin-top: auto; border-top: 1px solid #dbe3e6; padding-top: 6mm; }
+  .qr {
+    width: 34mm; height: 34mm; border: 2px dashed #0f766e; border-radius: 2mm; flex: none;
+    display: flex; align-items: center; justify-content: center; text-align: center;
+    font-size: 8.5pt; color: #0f766e; padding: 2mm;
+  }
+  .contact { flex: 1; }
+  .contact .big { font-size: 15pt; font-weight: 700; color: #0b3b44; }
+  .ph { background: #fef08a; padding: 0 1mm; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="brand">Praxistimmen Ammerland · Telefonansagen aus dem Ammerland</div>
+
+  <h1>Professionelle Telefonansagen<br>für Ihre Praxis – in 24 Stunden.</h1>
+  <p class="lead">Ihre Patientinnen und Patienten hören eine freundliche, klare Stimme statt einer
+    verrauschten Handyaufnahme. Wir schreiben den Text, nehmen auf und liefern die fertige Datei.</p>
+
+  <h2>So einfach geht's</h2>
+  <div class="steps">
+    <div class="step"><b>1</b>Sie nennen uns Ihre Sprechzeiten und Wünsche – per E-Mail oder direkt bei unserem Besuch.</div>
+    <div class="step"><b>2</b>Wir schreiben einen passenden Text und erstellen die Ansage mit einer natürlich klingenden KI-Stimme.</div>
+    <div class="step"><b>3</b>Sie erhalten die Datei in 24&nbsp;Stunden, passend für Ihre Telefonanlage. Auf Wunsch helfen wir beim Einspielen.</div>
+  </div>
+
+  <h2>Preise</h2>
+  <div class="prices">
+    <div class="price">
+      <h3>Einzelansage</h3>
+      <div class="eur">39 €</div>
+      <ul><li>z.&nbsp;B. Urlaub oder Feiertage</li><li>1 Korrekturrunde inklusive</li></ul>
+    </div>
+    <div class="price hl">
+      <span class="tag">Beliebt</span>
+      <h3>Paket „Praxis komplett“</h3>
+      <div class="eur">99 €</div>
+      <ul><li>Begrüßung</li><li>Warteschleife</li><li>Außerhalb der Sprechzeiten</li><li>Urlaub / Feiertage</li></ul>
+    </div>
+    <div class="price">
+      <h3>Änderungsservice</h3>
+      <div class="eur">9 € <small>/ Monat</small></div>
+      <ul><li>Unbegrenzt Änderungen</li><li>Lieferung in 24 h</li><li>Monatlich kündbar</li></ul>
+    </div>
+  </div>
+  <p class="fine">Alle Preise sind Endpreise. Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.</p>
+
+  <div class="xmas">
+    <div><strong>Zwischen den Jahren geschlossen?</strong><br>Ihre Weihnachtsansage mit geänderten Öffnungszeiten, Vertretung und Bereitschaftsdienst –
+      bestellen Sie bis zum 18.12., dann ist sie sicher vor den Feiertagen fertig.</div>
+  </div>
+
+  <div class="bottom">
+    <div class="qr">[QR-Code<br>zu den Hörproben]</div>
+    <div class="contact">
+      <div>Hören Sie selbst – Hörproben per QR-Code oder wir spielen sie Ihnen direkt vor.</div>
+      <div class="big">praxistimmen@gmx.net</div>
+      <div>Schreiben Sie uns einfach – wir rufen Sie gerne zurück.</div>
+      <div>Tom &amp; Nico, Edewecht</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
