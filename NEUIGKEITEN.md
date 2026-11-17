@@ -1,5 +1,7 @@
 # Neuigkeiten
 
+🌐 **Website: https://mistert-sudo.github.io/Ki-stimmen/**
+
 Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes`
 
 ## 📌 Aktueller Stand (16.11.2026) – für Niklas zum schnellen Überblick
