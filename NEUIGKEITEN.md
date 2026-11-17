@@ -16,6 +16,8 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 17.11.2026 – Claude: 8 E-Mails an britische Praxen (Ltd) über ansagewerk@gmail.com verschickt, Preise in Pfund (£35/£85/£8). Liste + Status: `kontakte_uk.md`.
+  Antworten im Gmail-Postfach prüfen; wer „unsubscribe“ schreibt, nie wieder anschreiben.
 - 17.11.2026 – Theo/Claude: **Entscheidung: keine Besuche vor Ort und kein Einspielen bei Kunden.** Alles läuft
   per E-Mail; wir liefern die fertige Datei. Website (alle 7 Sprachen) und Infoblatt entsprechend angepasst.
   Veraltete `website/en.html` gelöscht (Englisch läuft über den Sprachknopf).
