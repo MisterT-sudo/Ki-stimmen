@@ -16,6 +16,9 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 17.11.2026 – Theo/Claude: **Entscheidung: keine Besuche vor Ort und kein Einspielen bei Kunden.** Alles läuft
+  per E-Mail; wir liefern die fertige Datei. Website (alle 7 Sprachen) und Infoblatt entsprechend angepasst.
+  Veraltete `website/en.html` gelöscht (Englisch läuft über den Sprachknopf).
 - 16.11.2026 – Claude: Stimmproben wechseln jetzt mit der Website-Sprache: alle 7 Stimmen in allen 7 Sprachen
   (DE, EN, TR, PL, RU, UK, AR) unter `website/audio/stimmen/<sprache>/<stimme>.mp3`. Übersetzungen der
   Stimmen-Texte in `i18n.js` ergänzt. CSS/JS werden mit `?v=` geladen (gegen alten Browser-Cache) –
