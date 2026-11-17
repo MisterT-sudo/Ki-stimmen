@@ -9,7 +9,7 @@
   - **Nicht erlaubt:** Deutschland, Österreich, Schweiz, Kanada und der Großteil der EU.
 - Jede Mail: Absender (Ansagewerk, Theo & Niklas GbR, Germany) + Abmeldemöglichkeit („reply unsubscribe“).
 - Wer sich abmeldet: Status **abgemeldet**, nie wieder anschreiben (spätestens innerhalb von 5 Werktagen eintragen).
-- **Höchstens 20–30 neue Mails pro Tag** über Gmail, sonst droht die Sperre des Kontos.
+- **Ziel: 50 neue Mails pro Tag** (Entscheidung Niklas, 17.11.). Risiko: Gmail kann das Konto bei vielen Spam-Meldungen sperren. Unzustellbare und Spam-Rückmeldungen im Blick behalten.
 - Persönliche Sätze nur mit echten, gefundenen Infos über die Firma.
 
 Preise: UK £35 / £85 / £8 pro Monat · Australien A$65 / A$165 / A$15 · Neuseeland NZ$70 / NZ$180 / NZ$16
@@ -46,6 +46,21 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | MyOwnVet | Salisbury, QLD | admin@myownvet.com.au | gesendet 17.11. | Tierarzt, familiengeführt |
 | Hillarys Vet | Hillarys, WA | info@hillarysvet.com.au | gesendet 17.11. | Tierarzt |
 | Keysborough Veterinary Practice | Keysborough, VIC | info@keysivet.com.au | gesendet 17.11. | Tierarzt, familiengeführt |
+| EasyCare Family Dental | East Brisbane, QLD | info@easycarefamilydental.com.au | gesendet 17.11. | Zahnarzt, auch samstags |
+| Goodwood Dental | Goodwood, SA | reception@goodwooddental.com.au | gesendet 17.11. | Zahnarzt |
+| Foundation Dental Services | Brisbane / Sunshine Coast | admin@foundationdental.com.au | gesendet 17.11. | Parodontologie, familiengeführt |
+| Clare Valley Family Dental | Clare, SA | admin@cvfd.com.au | gesendet 17.11. | Zahnarzt |
+| Lakelands Family Dental | Lakelands, WA | reception@lakelandsfamilydental.com.au | gesendet 17.11. | Ehepaar-Praxis |
+| Pivot Podiatry | Thornton, NSW | reception@pivotpodiatry.com.au | gesendet 17.11. | Podologie |
+| Tas Sports Physio | Hobart / Sorell, TAS | info@tassportsphysio.com.au | gesendet 17.11. | |
+| Hobart Physio Co | Sandy Bay, TAS | info@hobartphysioco.com.au | gesendet 17.11. | |
+| FLEX Health Therapy | Hobart, TAS | info@flexhealththerapy.com.au | gesendet 17.11. | Physio + Pilates |
+| Therapia Sports & Spine | Adelaide, SA | info@therapia.com.au | gesendet 17.11. | |
+| Hobart Exercise Physiology | Hobart, TAS | admin@hobartexercisephysiology.com.au | gesendet 17.11. | |
+| Pet Doctor Vet | Woodville West, SA | info@petdoctorvet.com.au | gesendet 17.11. | Tierarzt |
+| Adelaide Animal Hospital | Trinity Gardens, SA | inquiries@adelaideanimalhospital.com.au | gesendet 17.11. | Tierarzt |
+| Adelaide Bird & Exotics Vet Centre | Richmond, SA | info@abevc.com.au | gesendet 17.11. | Tierarzt (Vögel/Exoten) |
+| All Pets Veterinary Hospital | Darwin, NT | info@allpetsvet.com.au | gesendet 17.11. | Tierarzt |
 
 ## Neuseeland
 
@@ -57,3 +72,14 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | The Dental Practice | Botany, Auckland | info@dentalpractice.co.nz | gesendet 17.11. | |
 | Cambridge Dental | Cambridge, Waikato | info@cambridgedental.co.nz | gesendet 17.11. | |
 | Silverdale Family Dentists | Silverdale, Auckland | info@silverdaledental.co.nz | gesendet 17.11. | |
+| South Coast Physiotherapy | Island Bay, Wellington | hello@southcoastphysio.co.nz | gesendet 17.11. | |
+| Te Ngae Physio & Pilates | Rotorua | admin@tengaephysio.co.nz | gesendet 17.11. | |
+| The Physio Clinic | Motueka | admin@thephysioclinic.co.nz | gesendet 17.11. | |
+| Physio Studio | Ōpōtiki | admin@physiostudio.co.nz | gesendet 17.11. | |
+| Onewa Road Veterinary Hospital | Birkenhead, Auckland | onewa.vets@gmail.com | gesendet 17.11. | Tierarzt |
+| Normanby Road Vet Clinic | Mt Eden, Auckland | info@petdoc.co.nz | **unzustellbar** | Adresse existiert nicht |
+| Lynfield Vets | Mount Roskill, Auckland | theteam@lynfieldvets.co.nz | gesendet 17.11. | Auto-Antwort erhalten |
+| Avonhead Vets | Christchurch | info@avonheadvets.co.nz | gesendet 17.11. | Auto-Antwort erhalten |
+| Takurua Vets | Upper Riccarton, Christchurch | reception@takuruavets.nz | gesendet 17.11. | Tierarzt |
+| Synergy Dental | Dunedin | hello@synergydental.co.nz | gesendet 17.11. | Zahnarzt |
+| Corson Dental | Tauranga | reception@corsondental.co.nz | gesendet 17.11. | Zahnarzt |

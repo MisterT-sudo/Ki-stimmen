@@ -16,6 +16,7 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 17.11.2026 – Claude: Auf 50 Mails/Tag hochgefahren (Wunsch Niklas): weitere 26 an Zahnärzte, Physios, Tierärzte in Australien/Neuseeland. Heute insgesamt 48 Firmen-Mails, 1 unzustellbar, 2 Auto-Antworten, noch keine echte Antwort.
 - 17.11.2026 – Claude: 14 persönliche E-Mails an Kleinbetriebe in Australien (Physio, Tierärzte) und Neuseeland (Zahnärzte) verschickt, Preise in A$/NZ$, ohne Straßenadresse.
   Regeln + Liste: `kontakte_ausland.md`. USA erst, wenn es eine Postanschrift (z. B. Postfach) für die Mails gibt.
 - 17.11.2026 – Claude: 8 E-Mails an britische Praxen (Ltd) über ansagewerk@gmail.com verschickt, Preise in Pfund (£35/£85/£8). Liste + Status: `kontakte_ausland.md`.
