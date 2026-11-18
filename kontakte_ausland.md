@@ -58,9 +58,34 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Therapia Sports & Spine | Adelaide, SA | info@therapia.com.au | gesendet 17.11. | |
 | Hobart Exercise Physiology | Hobart, TAS | admin@hobartexercisephysiology.com.au | gesendet 17.11. | |
 | Pet Doctor Vet | Woodville West, SA | info@petdoctorvet.com.au | gesendet 17.11. | Tierarzt |
-| Adelaide Animal Hospital | Trinity Gardens, SA | inquiries@adelaideanimalhospital.com.au | gesendet 17.11. | Tierarzt |
+| Adelaide Animal Hospital | Trinity Gardens, SA | inquiries@adelaideanimalhospital.com.au | gesendet 17.11. | Tierarzt; Zustellung verzögert (18.11.) |
 | Adelaide Bird & Exotics Vet Centre | Richmond, SA | info@abevc.com.au | gesendet 17.11. | Tierarzt (Vögel/Exoten) |
 | All Pets Veterinary Hospital | Darwin, NT | info@allpetsvet.com.au | gesendet 17.11. | Tierarzt |
+| Melbourne Family Physiotherapy | Prahran/Armadale/Caulfield S., VIC | admin@melbournefamilyphysiotherapy.com.au | gesendet 18.11. | 3 Standorte |
+| PhysioLife | Heidelberg u. a., VIC | admin@physiolife.physio | gesendet 18.11. | 4 Standorte |
+| Gold Coast Vet Surgery | Carrara, QLD | info@goldcoastvet.com.au | gesendet 18.11. | Tierarzt, Ehepaar |
+| Maleny Veterinary Services | Maleny, QLD | info@malenyvet.com.au | gesendet 18.11. | Tierarzt |
+| HousePaws Mobile Vet | Robina, QLD | vet@housepawsvet.com.au | gesendet 18.11. | mobiler Tierarzt |
+| The Wandering Vet | Sunshine Coast, QLD | contact@wanderingvet.com.au | gesendet 18.11. | mobiler Tierarzt |
+| Mandurah North Dental | Mandurah, WA | reception@mandurahnorthdental.com.au | gesendet 18.11. | Zahnarzt |
+| On Point Dental | Fremantle/Floreat/Wagin, WA | reception@onpointdental.com.au | gesendet 18.11. | Zahnarzt |
+| Western Dental | Fremantle, WA | reception@westerndental.com.au | gesendet 18.11. | Zahnarzt |
+| Mandurah Dental Surgery | Mandurah, WA | mandurahdental@gmail.com | gesendet 18.11. | Zahnarzt seit 1982 |
+| Marsfield Dental Care | Marsfield, NSW | info@marsfielddentalcare.com.au | gesendet 18.11. | Zahnarzt seit 1988 |
+| Gordon Family Dental | Gordon, NSW | admin@gordonfamilydental.com.au | gesendet 18.11. | Zahnarzt |
+| Harris Park Dental | Harris Park, NSW | info@harrisparkdental.com | gesendet 18.11. | Zahnarzt |
+| Fairfield Dental Care | Fairfield, NSW | info@fairfielddentalcare.com.au | gesendet 18.11. | Zahnarzt |
+| Family Dental Practice | Seven Hills, NSW | info@familydentalpractice.net.au | gesendet 18.11. | Zahnarzt |
+| Black Rock Animal Hospital | Black Rock, VIC | info@blackrockvet.com.au | gesendet 18.11. | Tierarzt |
+| Sandringham Veterinary Hospital | Sandringham, VIC | info@sandyvet.com.au | gesendet 18.11. | Tierarzt |
+| Oakleigh Central Vet | Hughesdale, VIC | info@oakleighcentralvet.com.au | gesendet 18.11. | Tierarzt |
+| Vets on Koornang | Carnegie, VIC | hello@vetsonkoornang.com.au | gesendet 18.11. | Tierarzt |
+| Lynbrook Vet | Lynbrook, VIC | info@lynbrookvet.com.au | gesendet 18.11. | Tierarzt |
+| Happy Tails Animal Hospital | Melbourne, VIC | team@happytailsvet.com.au | gesendet 18.11. | Tierarzt, Adresse aus Facebook |
+| The Podiatry Practice | Woolloongabba, QLD | admin@podiatrypractice.com.au | gesendet 18.11. | Podologie |
+| Padbury Vet Clinic | Padbury, WA | hello@padburyvetclinic.com.au | gesendet 18.11. | Tierarzt |
+| Bunbury and Eaton Vets | Bunbury/Eaton, WA | eatonvets@eatonvets.com.au | gesendet 18.11. | Tierarzt |
+| Kingsway Vet | Perth Nord, WA | kingswayvet@bigpond.com | gesendet 18.11. | Tierarzt |
 
 ## Neuseeland
 
@@ -83,3 +108,19 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Takurua Vets | Upper Riccarton, Christchurch | reception@takuruavets.nz | gesendet 17.11. | Tierarzt |
 | Synergy Dental | Dunedin | hello@synergydental.co.nz | gesendet 17.11. | Zahnarzt |
 | Corson Dental | Tauranga | reception@corsondental.co.nz | gesendet 17.11. | Zahnarzt |
+| The Podiatry Clinic | Wellington | admin@podiatryclinic.co.nz | gesendet 18.11. | Podologie seit 1978 |
+| Alexandra Chiropractic | Alexandra, Otago | info@alexandrachiropractic.co.nz | gesendet 18.11. | Chiro |
+| Petone Foot Clinic | Lower Hutt | petonefeet@gmail.com | gesendet 18.11. | Podologie |
+| Chiropractic Alchemy | Milford, Auckland | chiroalchemynz@gmail.com | gesendet 18.11. | Chiro |
+| MyChiro | Auckland CBD | infomychironz@yahoo.com | gesendet 18.11. | Chiro/Akupunktur |
+| Performance Physio | Bryndwr/Akaroa, Christchurch | admin@performancephysio.co.nz | gesendet 18.11. |  |
+| Christchurch Physiotherapy and Sports Clinic | Addington, Christchurch | admin@christchurchphysiotherapy.co.nz | gesendet 18.11. |  |
+| Shirley – St Albans Physiotherapy | Christchurch | info@shirleyphysiochristchurch.co.nz | gesendet 18.11. |  |
+| Physio NZ | Woolston/Ferrymead/Sumner | info@physio-nz.co.nz | gesendet 18.11. |  |
+| Hamilton Dental Centre | Rototuna, Hamilton | info@thehdc.co.nz | gesendet 18.11. | Zahnarzt |
+| Happy Dental | Melville, Hamilton | contact@happydental.co.nz | gesendet 18.11. | Zahnarzt |
+| Physio Zone | Mt Wellington, Auckland | admin@physiozone.co.nz | gesendet 18.11. |  |
+| So Physio | Auckland CBD | reception@sophysio.co.nz | gesendet 18.11. |  |
+| The Urban Physio | Ponsonby, Auckland | info@theurbanphysio.co.nz | gesendet 18.11. |  |
+| The Physio Co. | Wairau Valley, Auckland | hello@thephysioco.co.nz | gesendet 18.11. |  |
+| Local Physio | Sandringham/Eden Terrace, Auckland | appointments@localphysio.co.nz | gesendet 18.11. |  |
