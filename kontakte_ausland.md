@@ -86,6 +86,25 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Padbury Vet Clinic | Padbury, WA | hello@padburyvetclinic.com.au | gesendet 18.11. | Tierarzt |
 | Bunbury and Eaton Vets | Bunbury/Eaton, WA | eatonvets@eatonvets.com.au | **unzustellbar** | Adresse existiert nicht |
 | Kingsway Vet | Perth Nord, WA | kingswayvet@bigpond.com | gesendet 18.11. | Tierarzt |
+| Family Dental Clinic West End | West End, Brisbane | info@familydentalclinicwestend.com.au | gesendet 19.11. | Zahnarzt |
+| North Brisbane Family Dental | Banyo, QLD | reception@nbfdental.com.au | gesendet 19.11. | Zahnarzt |
+| Runcorn Dental | Runcorn, QLD | runcorndental@gmail.com | gesendet 19.11. | Zahnarzt seit 1991 |
+| Peaceful Dental | Greenbank, QLD | welcome@peacefuldental.com.au | gesendet 19.11. | Zahnarzt |
+| Pure Dentistry | Upper Mt Gravatt, QLD | info@puredentistry.com.au | gesendet 19.11. | Zahnarzt, 7 Tage offen |
+| Edgeworth Animal Medical Centre | Edgeworth, NSW | info@eamc.vet | gesendet 19.11. | Tierarzt |
+| Westlakes Veterinary Hospital | Fennell Bay, NSW | reception@westlakesvet.com.au | gesendet 19.11. | Tierarzt |
+| Vet in the Valley | New Norfolk, TAS | office@vetinthevalley.com | gesendet 19.11. | Tierarzt |
+| The Village Vet | Downer, ACT | hello@thevillagevet.co | gesendet 19.11. | Tierarzt |
+| Northside Veterinary Centre | Canberra, ACT | info@northsidevet.com.au | gesendet 19.11. | Tierarzt |
+| Melba Veterinary Clinic | Melba, ACT | info@melbavetclinic.com.au | gesendet 19.11. | Tierarzt |
+| Five Dock Veterinary Hospital | Five Dock, NSW | info@fivedockvet.com.au | gesendet 19.11. | Tierarzt, 50+ Jahre |
+| Vets on Falcon | Crows Nest, NSW | info@vetsonfalcon.com.au | gesendet 19.11. | Tierarzt |
+| Bendigo Family Dental Care | Bendigo, VIC | myrtlereception@gmail.com | gesendet 19.11. | Zahnarzt |
+| Rehab Wise Physiotherapy | Bundaberg, QLD | admin@rehabwisephysio.com.au | gesendet 19.11. |  |
+| Active Physiotherapy Solutions | Bundaberg, QLD | admin@activephysiosolutions.com.au | gesendet 19.11. |  |
+| Bundaberg Physiotherapy Centre | Bundaberg, QLD | info@bundyphysio.com.au | gesendet 19.11. |  |
+| Townsville Sports Injury and Physiotherapy Clinic | Townsville, QLD | info@townsvillephysio.com.au | gesendet 19.11. |  |
+| The Physio Movement | Townsville, QLD | info@thephysiomovement.com.au | gesendet 19.11. |  |
 
 ## Neuseeland
 
@@ -124,3 +143,13 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | The Urban Physio | Ponsonby, Auckland | info@theurbanphysio.co.nz | gesendet 18.11. |  |
 | The Physio Co. | Wairau Valley, Auckland | hello@thephysioco.co.nz | gesendet 18.11. |  |
 | Local Physio | Sandringham/Eden Terrace, Auckland | appointments@localphysio.co.nz | gesendet 18.11. |  |
+| Inform Physiotherapy | Silverstream, Upper Hutt | admin@informphysio.co.nz | gesendet 19.11. |  |
+| Bureta Physiotherapy | Tauranga | buretaphysio@xtra.co.nz | gesendet 19.11. |  |
+| Ilam Dental | Burnside, Christchurch | info@ilamdental.co.nz | gesendet 19.11. | Zahnarzt, 2. Generation |
+| Chew Dental | Green Island, Dunedin | giwcreception@gmail.com | gesendet 19.11. | Zahnarzt |
+| The Vet | Palmerston North | office@thevet.co.nz | gesendet 19.11. | Tierarzt |
+| Vets on Riverbank | Ōtaki | admin@vor.co.nz | gesendet 19.11. | Tierarzt |
+| The Good Podiatrist | Ohauiti, Tauranga | hello@thegoodpodiatrist.co.nz | gesendet 19.11. | Podologie |
+| Vital Feet Podiatry | Tauranga | info@vitalfeetpodiatry.co.nz | gesendet 19.11. | mobile Podologie |
+| AstroChiropractic | Hamilton / Newmarket | reception@astrochiropractic.com | gesendet 19.11. | Chiro |
+| Foot Foundation | Auckland/Hamilton/Tauranga | reception@footfoundation.co.nz | gesendet 19.11. | Podologie, mehrere Standorte |
