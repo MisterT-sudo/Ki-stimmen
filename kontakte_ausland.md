@@ -84,7 +84,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Happy Tails Animal Hospital | Melbourne, VIC | team@happytailsvet.com.au | gesendet 18.11. | Tierarzt, Adresse aus Facebook |
 | The Podiatry Practice | Woolloongabba, QLD | admin@podiatrypractice.com.au | gesendet 18.11. | Podologie |
 | Padbury Vet Clinic | Padbury, WA | hello@padburyvetclinic.com.au | gesendet 18.11. | Tierarzt |
-| Bunbury and Eaton Vets | Bunbury/Eaton, WA | eatonvets@eatonvets.com.au | gesendet 18.11. | Tierarzt |
+| Bunbury and Eaton Vets | Bunbury/Eaton, WA | eatonvets@eatonvets.com.au | **unzustellbar** | Adresse existiert nicht |
 | Kingsway Vet | Perth Nord, WA | kingswayvet@bigpond.com | gesendet 18.11. | Tierarzt |
 
 ## Neuseeland
@@ -120,7 +120,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Hamilton Dental Centre | Rototuna, Hamilton | info@thehdc.co.nz | gesendet 18.11. | Zahnarzt |
 | Happy Dental | Melville, Hamilton | contact@happydental.co.nz | gesendet 18.11. | Zahnarzt |
 | Physio Zone | Mt Wellington, Auckland | admin@physiozone.co.nz | gesendet 18.11. |  |
-| So Physio | Auckland CBD | reception@sophysio.co.nz | gesendet 18.11. |  |
+| So Physio | Auckland CBD | reception@sophysio.co.nz | **unzustellbar** | Adresse existiert nicht |
 | The Urban Physio | Ponsonby, Auckland | info@theurbanphysio.co.nz | gesendet 18.11. |  |
 | The Physio Co. | Wairau Valley, Auckland | hello@thephysioco.co.nz | gesendet 18.11. |  |
 | Local Physio | Sandringham/Eden Terrace, Auckland | appointments@localphysio.co.nz | gesendet 18.11. |  |
