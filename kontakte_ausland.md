@@ -75,7 +75,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Gordon Family Dental | Gordon, NSW | admin@gordonfamilydental.com.au | gesendet 18.11. | Zahnarzt |
 | Harris Park Dental | Harris Park, NSW | info@harrisparkdental.com | gesendet 18.11. | Zahnarzt |
 | Fairfield Dental Care | Fairfield, NSW | info@fairfielddentalcare.com.au | gesendet 18.11. | Zahnarzt |
-| Family Dental Practice | Seven Hills, NSW | info@familydentalpractice.net.au | gesendet 18.11. | Zahnarzt |
+| Family Dental Practice | Seven Hills, NSW | info@familydentalpractice.net.au | gesendet 18.11. | Zahnarzt; Zustellung verzögert (19.11.) |
 | Black Rock Animal Hospital | Black Rock, VIC | info@blackrockvet.com.au | gesendet 18.11. | Tierarzt |
 | Sandringham Veterinary Hospital | Sandringham, VIC | info@sandyvet.com.au | gesendet 18.11. | Tierarzt |
 | Oakleigh Central Vet | Hughesdale, VIC | info@oakleighcentralvet.com.au | gesendet 18.11. | Tierarzt |
@@ -144,7 +144,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | The Physio Co. | Wairau Valley, Auckland | hello@thephysioco.co.nz | gesendet 18.11. |  |
 | Local Physio | Sandringham/Eden Terrace, Auckland | appointments@localphysio.co.nz | gesendet 18.11. |  |
 | Inform Physiotherapy | Silverstream, Upper Hutt | admin@informphysio.co.nz | gesendet 19.11. |  |
-| Bureta Physiotherapy | Tauranga | buretaphysio@xtra.co.nz | gesendet 19.11. |  |
+| Bureta Physiotherapy | Tauranga | buretaphysio@xtra.co.nz | **unzustellbar** | Adresse existiert nicht |
 | Ilam Dental | Burnside, Christchurch | info@ilamdental.co.nz | gesendet 19.11. | Zahnarzt, 2. Generation |
 | Chew Dental | Green Island, Dunedin | giwcreception@gmail.com | gesendet 19.11. | Zahnarzt |
 | The Vet | Palmerston North | office@thevet.co.nz | gesendet 19.11. | Tierarzt |
