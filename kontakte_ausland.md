@@ -31,9 +31,9 @@ Status: Entwurf / gesendet / Antwort / Interesse / Kunde / kein Interesse / abge
 | Pebble Dental Practice | Brighton | ASP Practice Limited, Nr. 10534595 | info@pebbledentalpractice.com | gesendet 17.11. | |
 | The Specialist Dental Practice | Weybridge | Akil Gulamali Limited, Nr. 9284784 | info@weybridgedentist.co.uk | gesendet 17.11. | Firmenstatus nicht geprüft |
 | iPS (Physiotherapie, mehrere Standorte) | (UK) | Nr. 5122019 | contact@theips.co.uk | gesendet 17.11. | größere Gruppe |
+| Independent Physio | West Midlands / Shropshire | Independent Physio Ltd, Nr. 09941869 | info@independentphysio.co.uk | gesendet 20.11. | Companies House: aktiv; Kontaktdaten evtl. veraltet |
 
 Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.2026. Die Websites selbst konnten nicht direkt geöffnet werden.
-| Independent Physio | West Midlands / Shropshire | Independent Physio Ltd, Nr. 09941869 | info@independentphysio.co.uk | gesendet 20.11. | Companies House: aktiv; Kontaktdaten evtl. veraltet |
 
 ## Australien
 
