@@ -33,6 +33,7 @@ Status: Entwurf / gesendet / Antwort / Interesse / Kunde / kein Interesse / abge
 | iPS (Physiotherapie, mehrere Standorte) | (UK) | Nr. 5122019 | contact@theips.co.uk | gesendet 17.11. | größere Gruppe |
 
 Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.2026. Die Websites selbst konnten nicht direkt geöffnet werden.
+| Independent Physio | West Midlands / Shropshire | Independent Physio Ltd, Nr. 09941869 | info@independentphysio.co.uk | gesendet 20.11. | Companies House: aktiv; Kontaktdaten evtl. veraltet |
 
 ## Australien
 
@@ -105,6 +106,17 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Bundaberg Physiotherapy Centre | Bundaberg, QLD | info@bundyphysio.com.au | gesendet 19.11. |  |
 | Townsville Sports Injury and Physiotherapy Clinic | Townsville, QLD | info@townsvillephysio.com.au | gesendet 19.11. |  |
 | The Physio Movement | Townsville, QLD | info@thephysiomovement.com.au | gesendet 19.11. |  |
+| Hobart Family Dental | Hobart, TAS | info@hobartfamilydental.com.au | gesendet 20.11. | Zahnarzt |
+| Hopkins Dental | Moonah, TAS | info@hopkinsdental.com.au | gesendet 20.11. | Zahnarzt |
+| Smith Street Dental | Darwin, NT | reception@smithstreetdental.com | gesendet 20.11. | Zahnarzt |
+| Vet In The Hills | Woodside/Mannum, SA | Admin@vetinthehills.com.au | gesendet 20.11. | Tierarzt, Adresse aus Facebook |
+| Lincoln Veterinary Centre | Port Lincoln, SA | reception@lincolnvet.com.au | gesendet 20.11. | Tierarzt |
+| Ellen Street Dental | Wollongong, NSW | reception@ellenstreetdental.com.au | gesendet 20.11. | Zahnarzt |
+| Church St Dental | Wyong, NSW | info@churchstdental.com.au | gesendet 20.11. | Zahnarzt |
+| Wollongong Family Dental | Wollongong, NSW | admin@wollongongfamilydental.com.au | gesendet 20.11. | Zahnarzt |
+| My Dental Team | Wollongong, NSW | enquiries@mydentalteam.com.au | gesendet 20.11. | Zahnarzt |
+| APS Physio | North Perth, WA | apsnorthperth@apsphysio.com.au | gesendet 20.11. |  |
+| Invermay Vet Clinic | Launceston, TAS | info@invermayvetclinic.com.au | gesendet 20.11. | Tierarzt |
 
 ## Neuseeland
 
@@ -153,3 +165,9 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Vital Feet Podiatry | Tauranga | info@vitalfeetpodiatry.co.nz | gesendet 19.11. | mobile Podologie |
 | AstroChiropractic | Hamilton / Newmarket | reception@astrochiropractic.com | gesendet 19.11. | Chiro |
 | Foot Foundation | Auckland/Hamilton/Tauranga | reception@footfoundation.co.nz | gesendet 19.11. | Podologie, mehrere Standorte |
+| Logic Physio | Timaru | admin@logicphysio.co.nz | gesendet 20.11. |  |
+| Mend Physio | Invercargill | admin@mendphysio.nz | gesendet 20.11. |  |
+| Accelerate Physiotherapy | Invercargill | office@acceleratephysio.co.nz | gesendet 20.11. |  |
+| East Coast Farm Vets | Gisborne | info@eastcoastfarmvets.co.nz | gesendet 20.11. | Nutztier-Tierarzt |
+| Veteast | Gisborne | info@veteast.co.nz | gesendet 20.11. | Tierarzt |
+| Barrowman Goodman Vets | Rotorua | reception@barrowmangoodmanvets.nz | gesendet 20.11. | Tierarzt |

@@ -16,6 +16,7 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 20.11.2026 – Claude (tägliche Runde): 18 neue Mails (11 Australien, 6 Neuseeland, 1 UK). Noch keine echten Antworten; heute 1 unzustellbar (Bureta Physio), 2 Zustellungen verzögert.
 - 19.11.2026 – Claude (tägliche Runde): 29 neue Mails (19 Australien, 10 Neuseeland). Noch keine echten Antworten; seit gestern 2 unzustellbar (Eaton Vets, So Physio).
 - 18.11.2026 – Claude (tägliche Runde): 41 neue Mails (25 Australien, 16 Neuseeland). Bisher keine echten Antworten; 1 unzustellbar, 1 Zustellverzögerung, 2 Auto-Antworten.
 - 17.11.2026 – Claude: Auf 50 Mails/Tag hochgefahren (Wunsch Niklas): weitere 26 an Zahnärzte, Physios, Tierärzte in Australien/Neuseeland. Heute insgesamt 48 Firmen-Mails, 1 unzustellbar, 2 Auto-Antworten, noch keine echte Antwort.
