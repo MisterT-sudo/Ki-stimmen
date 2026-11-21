@@ -16,6 +16,7 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 21.11.2026 – Claude (tägliche Runde): 18 neue Mails (13 Australien, 5 Neuseeland). Insgesamt jetzt rund 150 Betriebe angeschrieben, noch keine echte Antwort; Adelaide Animal Hospital endgültig unzustellbar.
 - 20.11.2026 – Claude (tägliche Runde): 18 neue Mails (11 Australien, 6 Neuseeland, 1 UK). Noch keine echten Antworten; heute 1 unzustellbar (Bureta Physio), 2 Zustellungen verzögert.
 - 19.11.2026 – Claude (tägliche Runde): 29 neue Mails (19 Australien, 10 Neuseeland). Noch keine echten Antworten; seit gestern 2 unzustellbar (Eaton Vets, So Physio).
 - 18.11.2026 – Claude (tägliche Runde): 41 neue Mails (25 Australien, 16 Neuseeland). Bisher keine echten Antworten; 1 unzustellbar, 1 Zustellverzögerung, 2 Auto-Antworten.

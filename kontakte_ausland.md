@@ -117,6 +117,19 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | My Dental Team | Wollongong, NSW | enquiries@mydentalteam.com.au | gesendet 20.11. | Zahnarzt |
 | APS Physio | North Perth, WA | apsnorthperth@apsphysio.com.au | gesendet 20.11. |  |
 | Invermay Vet Clinic | Launceston, TAS | info@invermayvetclinic.com.au | gesendet 20.11. | Tierarzt |
+| Capricorn Vet Surgery | Rockhampton, QLD | capvet@capvet.com.au | gesendet 21.11. | Tierarzt, auch Nutztiere |
+| Trend Physio | East Gosford, NSW | admin@trendphysio.com.au | gesendet 21.11. | Ehepaar |
+| Hills Street Sports Medicine Centre | Gosford, NSW | admin@hillsstreet.com.au | gesendet 21.11. |  |
+| Thrive Physio | Erina, NSW | thrive@thrivephysio.com.au | gesendet 21.11. |  |
+| Wattle Park Veterinary Clinic | Wattle Park, SA | hello@wattleparkvet.com.au | gesendet 21.11. | Tierarzt |
+| Black Forest Family Vet | Black Forest, SA | info@blackforestfamilyvet.com.au | gesendet 21.11. | Tierarzt |
+| Aldgate Veterinary Clinic | Aldgate, SA | info@aldgatevet.com.au | gesendet 21.11. | Tierarzt seit 1990 |
+| Adelaide Veterinary Walk In Clinic | Prospect, SA | hello@avwic.com.au | gesendet 21.11. | Tierarzt (Notdienst) |
+| Adelaide Vet Home Visit | Adelaide, SA | vethomevisit@gmail.com | gesendet 21.11. | mobiler Tierarzt |
+| Your Gold Coast Dentist | Parkwood, QLD | info@yourgoldcoastdentist.com.au | gesendet 21.11. | Zahnarzt |
+| Dental Haus | Palm Beach, QLD | reception@dentalhaus.com.au | gesendet 21.11. | Zahnarzt |
+| Advanced Dental Care Clinic | Oxenford, QLD | info@advanceddentalcareclinic.com.au | gesendet 21.11. | Zahnarzt |
+| Gold Coast Dental Services | Broadbeach Waters, QLD | reception@goldcoastdentalservices.com.au | gesendet 21.11. | Zahnarzt |
 
 ## Neuseeland
 
@@ -171,3 +184,8 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | East Coast Farm Vets | Gisborne | info@eastcoastfarmvets.co.nz | gesendet 20.11. | Nutztier-Tierarzt |
 | Veteast | Gisborne | info@veteast.co.nz | gesendet 20.11. | Tierarzt |
 | Barrowman Goodman Vets | Rotorua | reception@barrowmangoodmanvets.nz | gesendet 20.11. | Tierarzt |
+| Movement IQ Physiotherapy | Palmerston North | admin@movementiq.co.nz | gesendet 21.11. |  |
+| Northcote Family Dentist | Northcote, Auckland | northcotefamilydentist@gmail.com | gesendet 21.11. | Zahnarzt |
+| Sunnynook Dentist | Forrest Hill, Auckland | sunnynook.dentist@gmail.com | gesendet 21.11. | Zahnarzt |
+| True Vets | Ormiston, Auckland | enquiries@truevets.co.nz | gesendet 21.11. | Tierarzt |
+| St Lukes Veterinary Centre | Auckland | pets@stlukesvet.co.nz | gesendet 21.11. | Tierarzt |
