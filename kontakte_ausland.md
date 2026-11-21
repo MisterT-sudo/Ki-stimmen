@@ -59,7 +59,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Therapia Sports & Spine | Adelaide, SA | info@therapia.com.au | gesendet 17.11. | |
 | Hobart Exercise Physiology | Hobart, TAS | admin@hobartexercisephysiology.com.au | gesendet 17.11. | |
 | Pet Doctor Vet | Woodville West, SA | info@petdoctorvet.com.au | gesendet 17.11. | Tierarzt |
-| Adelaide Animal Hospital | Trinity Gardens, SA | inquiries@adelaideanimalhospital.com.au | gesendet 17.11. | Tierarzt; Zustellung verzögert (18.11.) |
+| Adelaide Animal Hospital | Trinity Gardens, SA | inquiries@adelaideanimalhospital.com.au | **unzustellbar** | nach 3 Tagen Zustellversuchen endgültig fehlgeschlagen |
 | Adelaide Bird & Exotics Vet Centre | Richmond, SA | info@abevc.com.au | gesendet 17.11. | Tierarzt (Vögel/Exoten) |
 | All Pets Veterinary Hospital | Darwin, NT | info@allpetsvet.com.au | gesendet 17.11. | Tierarzt |
 | Melbourne Family Physiotherapy | Prahran/Armadale/Caulfield S., VIC | admin@melbournefamilyphysiotherapy.com.au | gesendet 18.11. | 3 Standorte |
