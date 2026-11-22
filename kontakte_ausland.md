@@ -130,6 +130,16 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Dental Haus | Palm Beach, QLD | reception@dentalhaus.com.au | gesendet 21.11. | Zahnarzt |
 | Advanced Dental Care Clinic | Oxenford, QLD | info@advanceddentalcareclinic.com.au | gesendet 21.11. | Zahnarzt |
 | Gold Coast Dental Services | Broadbeach Waters, QLD | reception@goldcoastdentalservices.com.au | gesendet 21.11. | Zahnarzt |
+| Total Care Family Veterinary Clinic | Holland Park West, QLD | Info@totalcarefamilyvetclinic.com.au | gesendet 22.11. | Tierarzt, Adresse aus Facebook |
+| The Ark Veterinary Surgery | Aspley, QLD | info@arkvet.net.au | gesendet 22.11. | Tierarzt |
+| AB Physiotherapy | Fremantle, WA | admin@abphysiotherapy.com.au | gesendet 22.11. |  |
+| Cardiff Podiatry Clinic | Cardiff, NSW | admin@cardiffpodiatryclinic.com.au | gesendet 22.11. | Podologie |
+| My Family Chiropractor | Holland Park, QLD | info@myfamilychiropractor.net.au | gesendet 22.11. | Chiro |
+| Equilibrium Family Wellness | Indooroopilly, QLD | info@efwqld.com.au | gesendet 22.11. | Chiro |
+| Geebung Family Chiropractic | Geebung, QLD | info@geebungfamilychiropractic.com.au | gesendet 22.11. | Chiro |
+| North Brisbane Chiropractic | Everton Park, QLD | nthbrisbanechiropractic@gmail.com | gesendet 22.11. | Chiro |
+| Adelaide Family Chiropractic | Morphett Vale, SA | reception@adelaidefamilychiro.com | gesendet 22.11. | Chiro |
+| Complete Chiropractic | Evandale, SA | reception@completechirosa.com.au | gesendet 22.11. | Chiro |
 
 ## Neuseeland
 
@@ -189,3 +199,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Sunnynook Dentist | Forrest Hill, Auckland | sunnynook.dentist@gmail.com | gesendet 21.11. | Zahnarzt |
 | True Vets | Ormiston, Auckland | enquiries@truevets.co.nz | gesendet 21.11. | Tierarzt |
 | St Lukes Veterinary Centre | Auckland | pets@stlukesvet.co.nz | gesendet 21.11. | Tierarzt |
+| Timaru Dental Care | Timaru | reception@timarudentalcare.co.nz | gesendet 22.11. | Zahnarzt |
+| Stafford Dental Centre | Timaru | admin@stafforddental.co.nz | gesendet 22.11. | Zahnarzt |
+| At The Vets | Sydenham, Christchurch | clinic@atthevets.co.nz | gesendet 22.11. | Tierarzt |
+| Waikiwi Vet Services | Invercargill | staff@vetservices.co.nz | gesendet 22.11. | Tierarzt |
