@@ -76,7 +76,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Gordon Family Dental | Gordon, NSW | admin@gordonfamilydental.com.au | gesendet 18.11. | Zahnarzt |
 | Harris Park Dental | Harris Park, NSW | info@harrisparkdental.com | gesendet 18.11. | Zahnarzt |
 | Fairfield Dental Care | Fairfield, NSW | info@fairfielddentalcare.com.au | gesendet 18.11. | Zahnarzt |
-| Family Dental Practice | Seven Hills, NSW | info@familydentalpractice.net.au | gesendet 18.11. | Zahnarzt; Zustellung verzögert (19.11.) |
+| Family Dental Practice | Seven Hills, NSW | info@familydentalpractice.net.au | **unzustellbar** | nach mehreren Tagen Zustellversuchen endgültig fehlgeschlagen |
 | Black Rock Animal Hospital | Black Rock, VIC | info@blackrockvet.com.au | gesendet 18.11. | Tierarzt |
 | Sandringham Veterinary Hospital | Sandringham, VIC | info@sandyvet.com.au | gesendet 18.11. | Tierarzt |
 | Oakleigh Central Vet | Hughesdale, VIC | info@oakleighcentralvet.com.au | gesendet 18.11. | Tierarzt |
