@@ -129,7 +129,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Your Gold Coast Dentist | Parkwood, QLD | info@yourgoldcoastdentist.com.au | gesendet 21.11. | Zahnarzt |
 | Dental Haus | Palm Beach, QLD | reception@dentalhaus.com.au | gesendet 21.11. | Zahnarzt |
 | Advanced Dental Care Clinic | Oxenford, QLD | info@advanceddentalcareclinic.com.au | gesendet 21.11. | Zahnarzt |
-| Gold Coast Dental Services | Broadbeach Waters, QLD | reception@goldcoastdentalservices.com.au | gesendet 21.11. | Zahnarzt |
+| Gold Coast Dental Services | Broadbeach Waters, QLD | reception@goldcoastdentalservices.com.au | gesendet 21.11. | Zahnarzt; Zustellung verzögert (22.11.) |
 | Total Care Family Veterinary Clinic | Holland Park West, QLD | Info@totalcarefamilyvetclinic.com.au | gesendet 22.11. | Tierarzt, Adresse aus Facebook |
 | The Ark Veterinary Surgery | Aspley, QLD | info@arkvet.net.au | gesendet 22.11. | Tierarzt |
 | AB Physiotherapy | Fremantle, WA | admin@abphysiotherapy.com.au | gesendet 22.11. |  |
@@ -137,7 +137,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | My Family Chiropractor | Holland Park, QLD | info@myfamilychiropractor.net.au | gesendet 22.11. | Chiro |
 | Equilibrium Family Wellness | Indooroopilly, QLD | info@efwqld.com.au | gesendet 22.11. | Chiro |
 | Geebung Family Chiropractic | Geebung, QLD | info@geebungfamilychiropractic.com.au | gesendet 22.11. | Chiro |
-| North Brisbane Chiropractic | Everton Park, QLD | nthbrisbanechiropractic@gmail.com | gesendet 22.11. | Chiro |
+| North Brisbane Chiropractic | Everton Park, QLD | nthbrisbanechiropractic@gmail.com | **unzustellbar** | Adresse existiert nicht |
 | Adelaide Family Chiropractic | Morphett Vale, SA | reception@adelaidefamilychiro.com | gesendet 22.11. | Chiro |
 | Complete Chiropractic | Evandale, SA | reception@completechirosa.com.au | gesendet 22.11. | Chiro |
 
