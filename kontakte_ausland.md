@@ -140,6 +140,14 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | North Brisbane Chiropractic | Everton Park, QLD | nthbrisbanechiropractic@gmail.com | **unzustellbar** | Adresse existiert nicht |
 | Adelaide Family Chiropractic | Morphett Vale, SA | reception@adelaidefamilychiro.com | gesendet 22.11. | Chiro |
 | Complete Chiropractic | Evandale, SA | reception@completechirosa.com.au | gesendet 22.11. | Chiro |
+| Majors Bay Dental | Concord, NSW | mbdental@tpg.com.au | gesendet 23.11. | Zahnarzt |
+| Pymble Family Dentist | Pymble, NSW | info@pymblefamilydentist.com.au | gesendet 23.11. | Zahnarzt |
+| Andrew Baderski Dental | Ingleburn, NSW | info@andrewbaderskidental.com.au | gesendet 23.11. | Zahnarzt |
+| Adent Family Dental Care | Hills District, NSW | adentfamilydental@yahoo.com | gesendet 23.11. | Zahnarzt |
+| The Dentists Cairns Dental Group | Cairns, QLD | pm@cairnsdentalgroup.com.au | gesendet 23.11. | Zahnarzt |
+| Rosemarie Kirkland Dental | Mackay, QLD | reception@kirklanddental.com.au | gesendet 23.11. | Zahnarzt |
+| Geelong Podiatry Centre | North Geelong, VIC | geelongpodiatrycentre@gmail.com | gesendet 23.11. | Podologie |
+| Estuary Veterinary Clinic | Falcon, WA | admin@estuaryvets.com.au | gesendet 23.11. | Tierarzt, Adresse aus Facebook |
 
 ## Neuseeland
 
@@ -203,3 +211,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Stafford Dental Centre | Timaru | admin@stafforddental.co.nz | gesendet 22.11. | Zahnarzt |
 | At The Vets | Sydenham, Christchurch | clinic@atthevets.co.nz | gesendet 22.11. | Tierarzt |
 | Waikiwi Vet Services | Invercargill | staff@vetservices.co.nz | gesendet 22.11. | Tierarzt |
+| 3 Stone Vets | Te Awamutu | info@3stonevets.co.nz | gesendet 23.11. | Tierarzt, auch Nutztiere |
+| V.E. Vets | Te Awamutu | vet@vevets.co.nz | gesendet 23.11. | Tierarzt |
+| WEVC Cambridge | Cambridge, Waikato | reception@wevc.co.nz | gesendet 23.11. | Tierarzt |
+| Kiwi Paws Home Vet | Hamilton (mobil) | info@kiwipawshomevet.co.nz | gesendet 23.11. | mobiler Tierarzt |
