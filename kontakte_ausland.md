@@ -148,6 +148,14 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Rosemarie Kirkland Dental | Mackay, QLD | reception@kirklanddental.com.au | gesendet 23.11. | Zahnarzt |
 | Geelong Podiatry Centre | North Geelong, VIC | geelongpodiatrycentre@gmail.com | gesendet 23.11. | Podologie |
 | Estuary Veterinary Clinic | Falcon, WA | admin@estuaryvets.com.au | gesendet 23.11. | Tierarzt, Adresse aus Facebook |
+| Connect Physiotherapy Tas | Launceston/Devonport, TAS | info@connectphysiotherapytas.com.au | gesendet 24.11. |  |
+| Kingston Smiles | Kingston, ACT | reception@kingstonsmiles.com.au | gesendet 24.11. | Zahnarzt |
+| Campbell Dental Practice | Campbell, ACT | reception@yourfamilydental.com.au | gesendet 24.11. | Zahnarzt |
+| Marius Veterinary Clinic | Tamworth, NSW | office@mariusvet.com.au | gesendet 24.11. | Tierarzt seit 1999 |
+| Rose Avenue Vet Hospital | Coffs Harbour, NSW | vets@roseavevet.com.au | gesendet 24.11. | Tierarzt |
+| Orange Vet Hospital | Orange/Molong, NSW | orangevet@orangevet.com.au | gesendet 24.11. | Tierarzt |
+| Orana Veterinary Service | Dubbo, NSW | orana.vet@oranavet.com.au | gesendet 24.11. | Tierarzt (Notdienst), Adresse aus Facebook |
+| The Physio Collective | Caloundra, QLD | admin@thephysiocollective.com.au | gesendet 24.11. |  |
 
 ## Neuseeland
 
@@ -215,3 +223,6 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | V.E. Vets | Te Awamutu | vet@vevets.co.nz | gesendet 23.11. | Tierarzt |
 | WEVC Cambridge | Cambridge, Waikato | reception@wevc.co.nz | gesendet 23.11. | Tierarzt |
 | Kiwi Paws Home Vet | Hamilton (mobil) | info@kiwipawshomevet.co.nz | gesendet 23.11. | mobiler Tierarzt |
+| Relief Point Physio | Nelson | admin@reliefpointphysio.co.nz | gesendet 24.11. |  |
+| The Physio Institute | Stoke, Nelson | admin@thephysioinstitute.co.nz | gesendet 24.11. |  |
+| Aspire Physiotherapy | Greymouth | reception@aspirephysiotherapy.co.nz | gesendet 24.11. |  |

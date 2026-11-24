@@ -16,6 +16,7 @@ Neueste Einträge oben. Format: `Datum – Name: was gemacht / was als Nächstes
 
 ## Verlauf
 
+- 24.11.2026 – Claude (tägliche Runde): 11 neue Mails (8 Australien, 3 Neuseeland). Gesamt ~190 Betriebe, noch keine echte Antwort, heute keine Unzustellbaren.
 - 23.11.2026 – Claude (tägliche Runde): 12 neue Mails (8 Australien, 4 Neuseeland). Gesamt ~180 Betriebe, noch keine echte Antwort; heute 1 unzustellbar (North Brisbane Chiropractic).
 - 22.11.2026 – Claude (tägliche Runde): 14 neue Mails (10 Australien, 4 Neuseeland), u. a. erstmals Chiropraktiker. Gesamt ~168 Betriebe, noch keine echte Antwort; Family Dental Practice endgültig unzustellbar.
 - 21.11.2026 – Claude (tägliche Runde): 18 neue Mails (13 Australien, 5 Neuseeland). Insgesamt jetzt rund 150 Betriebe angeschrieben, noch keine echte Antwort; Adelaide Animal Hospital endgültig unzustellbar.
