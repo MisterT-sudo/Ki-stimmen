@@ -1,0 +1,21 @@
+{
+  "familie": "Familie Beispiel",
+  "thema": "weihnachten",
+  "namen": ["Lena", "Max", "Mama", "Papa", "Oma Gerda", "Bello"],
+  "quiz": [
+    {"frage": "Was hat Papa letztes Weihnachten aus Versehen anbrennen lassen?", "richtig": "Die Gans", "falsch": ["Die Plätzchen", "Den Adventskranz"]},
+    {"frage": "Wie heißt Oma Gerdas Lieblingsschlager?", "richtig": "Atemlos", "falsch": ["Griechischer Wein", "Marmor, Stein und Eisen bricht"]},
+    {"frage": "Was hat Bello im Sommer am Strand geklaut?", "richtig": "Eine Bratwurst", "falsch": ["Einen Flip-Flop", "Ein Eis"]},
+    {"frage": "Welches Wort sagt Max ständig?", "richtig": "Krass", "falsch": ["Digga", "Safe"]}
+  ],
+  "geheimschrift": {
+    "schluessel_zahl": 6,
+    "schluessel_frage": "Wie viele Familienmitglieder stehen auf der Titelseite (Bello zählt mit)?",
+    "satz": "Mama findet Papas Witze heimlich lustig."
+  },
+  "rechnung": {
+    "a": {"frage": "Hausnummer eures Hauses", "wert": 17},
+    "b": {"frage": "Wie alt wird Oma Gerda nächstes Jahr?", "wert": 80}
+  },
+  "schatz": "Euer Geschenk wartet im Wäschekorb im Badezimmer – unter Papas alten Socken. Frohe Weihnachten!"
+}
