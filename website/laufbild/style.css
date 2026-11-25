@@ -1,0 +1,47 @@
+:root {
+  --orange: #fc4c02; --orange-dunkel: #d63f00; --text: #111827; --grau: #6b7280; --linie: #e5e7eb; --hell: #f9fafb; --blau: #2563eb;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: #fff; color: var(--text); font: 15px/1.5 Inter, "Segoe UI", system-ui, -apple-system, Arial, sans-serif; }
+.layout { display: grid; grid-template-columns: 1fr 380px; height: 100vh; height: 100dvh; }
+#karte { height: 100%; min-height: 300px; }
+#karte.zeichnen { cursor: crosshair; touch-action: none; }
+.panel { overflow-y: auto; padding: 18px 20px 24px; border-left: 1px solid var(--linie); background: #fff; }
+.logo { font-weight: 900; font-size: 26px; text-decoration: none; color: var(--text); letter-spacing: -0.02em; }
+.logo span { color: var(--orange); }
+header p { margin: 2px 0 8px; color: var(--grau); }
+section { border-top: 1px solid var(--linie); padding: 14px 0 10px; }
+h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .08em; color: var(--grau); margin: 0 0 10px; }
+.zeile { display: flex; gap: 8px; }
+input[type=text], input:not([type]), #ort, #text { flex: 1; width: 100%; font: inherit; padding: 10px 12px; border: 1.5px solid var(--linie); border-radius: 10px; }
+#text { margin-top: 10px; text-transform: uppercase; letter-spacing: .1em; font-weight: 700; }
+input:focus { outline: 2px solid var(--orange); border-color: var(--orange); }
+button { font: inherit; cursor: pointer; }
+.klein { border: 0; background: var(--text); color: #fff; border-radius: 10px; padding: 0 14px; }
+.link { border: 0; background: none; color: var(--blau); padding: 8px 0 0; }
+.hinweis { color: var(--grau); font-size: 13px; margin: 6px 0 0; }
+.hinweis.warn { color: #b45309; }
+.motive { display: flex; flex-wrap: wrap; gap: 6px; }
+.motive button { border: 1.5px solid var(--linie); background: var(--hell); border-radius: 999px; padding: 7px 12px; }
+.motive button.an { border-color: var(--orange); background: #fff3ed; color: var(--orange-dunkel); font-weight: 700; }
+.sport { display: flex; gap: 16px; margin-bottom: 8px; }
+.slider { display: block; }
+.slider input { width: 100%; accent-color: var(--orange); margin-top: 6px; }
+.haupt { width: 100%; border: 0; background: var(--orange); color: #fff; font-weight: 800; font-size: 17px; padding: 14px; border-radius: 12px; margin-top: 10px; }
+.haupt:hover { background: var(--orange-dunkel); } .haupt:disabled { opacity: .6; cursor: wait; }
+.zweit { flex: 1; border: 1.5px solid var(--text); background: #fff; border-radius: 10px; padding: 10px; font-weight: 700; margin-top: 8px; }
+.status { min-height: 20px; color: var(--grau); margin: 10px 0 0; }
+.status.fehler { color: #b91c1c; }
+.werte { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.werte div { background: var(--hell); border-radius: 12px; padding: 12px; text-align: center; }
+.werte b { display: block; font-size: 28px; font-weight: 900; }
+.werte span { color: var(--grau); font-size: 13px; }
+details { margin-top: 14px; color: var(--grau); font-size: 14px; }
+summary { cursor: pointer; color: var(--text); font-weight: 600; }
+.panel footer { border-top: 1px solid var(--linie); margin-top: 16px; padding-top: 12px; font-size: 12px; color: var(--grau); }
+.panel footer a { color: var(--grau); }
+@media (max-width: 800px) {
+  .layout { grid-template-columns: 1fr; grid-template-rows: 55vh auto; height: auto; }
+  #karte { height: 55vh; }
+  .panel { border-left: 0; overflow: visible; padding: 14px 16px 28px; }
+}

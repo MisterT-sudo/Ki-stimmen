@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Laufbild – Lauf- und Radrouten, die Bilder malen</title>
+<meta name="description" content="Herz, Stern oder dein Name: Laufbild legt dein Motiv auf echte Straßen in deiner Nähe. Als GPX für Strava, Garmin und Komoot. GPS-Kunst in Sekunden.">
+<meta property="og:title" content="Laufbild – lauf ein Herz durch deine Stadt">
+<meta property="og:description" content="GPS-Kunst in Sekunden: Motiv wählen, Länge einstellen, Route auf echten Straßen bekommen.">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+<div class="layout">
+  <div id="karte" aria-label="Karte"></div>
+
+  <aside class="panel">
+    <header><a class="logo" href="./">Lauf<span>bild</span></a><p>Lauf ein Bild durch deine Stadt.</p></header>
+
+    <section>
+      <h2>1 · Wo?</h2>
+      <form id="suche" class="zeile">
+        <input id="ort" placeholder="Ort oder Adresse" autocomplete="off" aria-label="Ort oder Adresse">
+        <button class="klein">Suchen</button>
+      </form>
+      <button id="standort" class="link" type="button">📍 Meinen Standort nehmen</button>
+      <p class="hinweis">Oder einfach auf die Karte tippen.</p>
+    </section>
+
+    <section>
+      <h2>2 · Was?</h2>
+      <div class="motive" id="motive">
+        <button data-m="herz" class="an">♥ Herz</button>
+        <button data-m="stern">★ Stern</button>
+        <button data-m="baum">🎄 Baum</button>
+        <button data-m="blitz">⚡ Blitz</button>
+        <button data-m="kreis">◯ Kreis</button>
+        <button data-m="text">Aa Text</button>
+        <button data-m="zeichnen">✎ Selbst zeichnen</button>
+      </div>
+      <input id="text" maxlength="8" placeholder="Name oder Wort (max. 8 Zeichen)" hidden aria-label="Text">
+      <p id="zeichenhilfe" class="hinweis" hidden>Zeichne mit dem Finger oder der Maus eine Linie auf die Karte (ohne abzusetzen).</p>
+    </section>
+
+    <section>
+      <h2>3 · Wie weit?</h2>
+      <div class="sport">
+        <label><input type="radio" name="sport" value="lauf" checked> 🏃 Laufen</label>
+        <label><input type="radio" name="sport" value="rad"> 🚴 Rad</label>
+      </div>
+      <label class="slider">Länge: <b id="kmWert">8 km</b>
+        <input type="range" id="km" min="3" max="80" step="1" value="8"></label>
+      <p id="empfehlung" class="hinweis"></p>
+    </section>
+
+    <button id="los" class="haupt">Route erstellen</button>
+    <p id="status" class="status" role="status"></p>
+
+    <section id="ergebnis" hidden>
+      <div class="werte">
+        <div><b id="eKm">–</b><span>Kilometer</span></div>
+        <div><b id="eAehn">–</b><span>Ähnlichkeit</span></div>
+      </div>
+      <button id="gpx" class="haupt">GPX für Uhr &amp; App</button>
+      <div class="zeile">
+        <button id="bild" class="zweit">Bild teilen</button>
+        <button id="nochmal" class="zweit">Andere Variante</button>
+      </div>
+      <details>
+        <summary>So kommt die Route auf deine Uhr</summary>
+        <p><b>Strava:</b> strava.com → Dashboard → Meine Routen → Route erstellen → GPX importieren.<br>
+           <b>Garmin:</b> Garmin Connect → Training → Strecken → Importieren → Strecke an Gerät senden.<br>
+           <b>Komoot:</b> komoot.com → Planen → GPX-Datei importieren.</p>
+        <p>Tipp: Lauf genau die angezeigte Linie, auch doppelte Abschnitte. Nur dann entsteht das Bild.</p>
+      </details>
+    </section>
+
+    <footer>
+      Kartendaten © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>-Mitwirkende ·
+      <a href="../impressum.html">Impressum</a> · <a href="../datenschutz.html">Datenschutz</a><br>
+      Bitte achte auf den Verkehr. Routen können Wege enthalten, die gesperrt oder ungeeignet sind.
+    </footer>
+  </aside>
+</div>
+
+<script src="vendor/leaflet.js"></script>
+<script src="config.js?v=1"></script>
+<script src="motive.js?v=1"></script>
+<script src="route.js?v=1"></script>
+<script src="app.js?v=1"></script>
+</body>
+</html>
