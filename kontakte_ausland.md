@@ -129,7 +129,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Your Gold Coast Dentist | Parkwood, QLD | info@yourgoldcoastdentist.com.au | gesendet 21.11. | Zahnarzt |
 | Dental Haus | Palm Beach, QLD | reception@dentalhaus.com.au | gesendet 21.11. | Zahnarzt |
 | Advanced Dental Care Clinic | Oxenford, QLD | info@advanceddentalcareclinic.com.au | gesendet 21.11. | Zahnarzt |
-| Gold Coast Dental Services | Broadbeach Waters, QLD | reception@goldcoastdentalservices.com.au | gesendet 21.11. | Zahnarzt; Zustellung verzögert (22.11.) |
+| Gold Coast Dental Services | Broadbeach Waters, QLD | reception@goldcoastdentalservices.com.au | **unzustellbar** | nach mehreren Tagen endgültig fehlgeschlagen |
 | Total Care Family Veterinary Clinic | Holland Park West, QLD | Info@totalcarefamilyvetclinic.com.au | gesendet 22.11. | Tierarzt, Adresse aus Facebook |
 | The Ark Veterinary Surgery | Aspley, QLD | info@arkvet.net.au | gesendet 22.11. | Tierarzt |
 | AB Physiotherapy | Fremantle, WA | admin@abphysiotherapy.com.au | gesendet 22.11. |  |
@@ -155,7 +155,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Rose Avenue Vet Hospital | Coffs Harbour, NSW | vets@roseavevet.com.au | gesendet 24.11. | Tierarzt |
 | Orange Vet Hospital | Orange/Molong, NSW | orangevet@orangevet.com.au | gesendet 24.11. | Tierarzt |
 | Orana Veterinary Service | Dubbo, NSW | orana.vet@oranavet.com.au | gesendet 24.11. | Tierarzt (Notdienst), Adresse aus Facebook |
-| The Physio Collective | Caloundra, QLD | admin@thephysiocollective.com.au | gesendet 24.11. |  |
+| The Physio Collective | Caloundra, QLD | admin@thephysiocollective.com.au | **unzustellbar** | Adresse existiert nicht |
 
 ## Neuseeland
 
