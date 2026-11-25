@@ -1,0 +1,31 @@
+{
+  "name": "Lena Beispiel",
+  "titel": "Kauffrau für Büromanagement",
+  "adresse": "Musterstraße 1, 26122 Oldenburg",
+  "telefon": "0151 00000000",
+  "email": "lena.beispiel@example.com",
+  "profil": "Organisierte Kauffrau für Büromanagement mit drei Jahren Erfahrung in Terminplanung, Rechnungswesen und Kundenkontakt. Ich arbeite gern strukturiert, behalte auch in stressigen Phasen den Überblick und bin für Kunden und Kollegen eine verlässliche Ansprechpartnerin.",
+  "erfahrung": [
+    {"zeit": "08/2023 – heute", "was": "Sachbearbeiterin Auftragsabwicklung", "wo": "Nordwest Haustechnik GmbH, Oldenburg",
+     "punkte": ["Erfassung und Abrechnung von rund 60 Aufträgen pro Woche in DATEV", "Erste Ansprechpartnerin für Kundenanfragen am Telefon und per E-Mail", "Einführung einer digitalen Ablage: Suchzeiten im Team spürbar verkürzt"]},
+    {"zeit": "08/2020 – 07/2023", "was": "Ausbildung zur Kauffrau für Büromanagement", "wo": "Stadtwerke Musterstadt",
+     "punkte": ["Abschluss mit der Note 2,1", "Einsätze in Buchhaltung, Personal und Kundenservice"]}
+  ],
+  "ausbildung": [
+    {"zeit": "2014 – 2020", "was": "Realschulabschluss", "wo": "Realschule Musterstadt"}
+  ],
+  "kenntnisse": {"EDV": "MS Office (sehr gut), DATEV (gut), SAP Grundkenntnisse", "Sprachen": "Deutsch (Muttersprache), Englisch (gut)", "Führerschein": "Klasse B"},
+  "ort_datum": "Oldenburg, 25.11.2026",
+  "anschreiben": {
+    "empfaenger": "Muster Logistik GmbH\nFrau Petra Muster\nHafenweg 5\n26135 Oldenburg",
+    "ort_datum": "Oldenburg, 25.11.2026",
+    "betreff": "Bewerbung als Kauffrau für Büromanagement (Stellen-Nr. 2026-14)",
+    "anrede": "Sehr geehrte Frau Muster,",
+    "absaetze": [
+      "in Ihrer Stellenanzeige suchen Sie jemanden, der den Büroalltag im Griff hat und auch dann freundlich bleibt, wenn fünf Dinge gleichzeitig passieren. Genau das mache ich seit drei Jahren jeden Tag, und deshalb bewerbe ich mich bei Ihnen.",
+      "Bei der Nordwest Haustechnik GmbH wickle ich jede Woche rund 60 Aufträge ab, von der Erfassung bis zur Rechnung in DATEV. Ich bin die erste Ansprechpartnerin für Kunden und habe eine digitale Ablage eingeführt, mit der das ganze Team Unterlagen schneller findet.",
+      "Bei Ihnen reizt mich besonders die Arbeit mit vielen Partnern und kurzen Wegen. Ich möchte mich weiterentwickeln und Verantwortung übernehmen, und ein wachsendes Logistikunternehmen ist dafür der richtige Ort.",
+      "Ich kann zum 01.02.2027 bei Ihnen anfangen und freue mich auf ein persönliches Gespräch."
+    ]
+  }
+}
