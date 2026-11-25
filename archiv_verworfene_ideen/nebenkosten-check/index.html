@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nebenkosten-Check – Abrechnung kostenlos prüfen</title>
+<meta name="description" content="Prüfen Sie Ihre Nebenkostenabrechnung in 5 Minuten: Fristen, nicht umlagefähige Posten, Heizkosten- und CO₂-Kürzungsrechte, Vergleich mit dem Betriebskostenspiegel. Kostenlos, ohne Anmeldung, Ihre Daten bleiben auf Ihrem Gerät.">
+<link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+<header class="top">
+  <div class="wrap"><a class="logo" href="./">Nebenkosten<span>-Check</span></a></div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <h1>Ist Ihre Nebenkostenabrechnung richtig?</h1>
+    <p>In 5 Minuten selbst prüfen: Fristen, unzulässige Posten, Heizkosten- und CO₂-Regeln, Vergleich mit dem Durchschnitt.
+      <b>Kostenlos, ohne Anmeldung.</b> Ihre Angaben verlassen Ihr Gerät nicht.</p>
+    <ul class="usp">
+      <li>✓ Prüft 15 typische Fehler</li><li>✓ Zeigt, wie viel Sie zurückfordern können</li><li>✓ Fertiges Widerspruchsschreiben</li>
+    </ul>
+  </section>
+
+  <form id="f" autocomplete="off">
+    <fieldset>
+      <legend><b>1</b> Eckdaten der Abrechnung</legend>
+      <div class="grid">
+        <label>Abrechnungszeitraum von<input type="date" name="von" required></label>
+        <label>bis<input type="date" name="bis" required></label>
+        <label>Abrechnung erhalten am<input type="date" name="zugang" required></label>
+        <label>Wohnfläche (m²)<input type="number" name="flaeche" min="5" step="0.1" inputmode="decimal" required></label>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend><b>2</b> Die einzelnen Posten</legend>
+      <p class="hint">Tragen Sie jeden Posten so ein, wie er in der Abrechnung heißt, mit <b>Ihrem Anteil</b> in Euro.
+        Häufige Posten per Klick hinzufügen:</p>
+      <div class="chips" id="chips"></div>
+      <div id="posten"></div>
+      <button type="button" class="ghost" id="plus">+ Weiterer Posten</button>
+      <div class="sum">Summe: <b id="summe">0,00 €</b></div>
+    </fieldset>
+
+    <fieldset>
+      <legend><b>3</b> Ergebnis laut Abrechnung</legend>
+      <div class="grid">
+        <label>Ihre Vorauszahlungen im Zeitraum (€)<input type="number" name="vorauszahlung" step="0.01" inputmode="decimal"></label>
+        <label>Nachzahlung (+) bzw. Guthaben (−) laut Abrechnung (€)<input type="number" name="ergebnis" step="0.01" inputmode="decimal" placeholder="z. B. 230 oder -45"></label>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend><b>4</b> Heizung (wenn in der Abrechnung enthalten)</legend>
+      <div class="grid">
+        <label>Womit wird geheizt?
+          <select name="brennstoff"><option value="gas">Gas</option><option value="oel">Heizöl</option><option value="fern">Fernwärme</option><option value="andere">Wärmepumpe / Holz / anderes</option></select></label>
+        <label>Wird nach Ihrem Verbrauch abgerechnet (Zähler/Verdunster an Heizkörpern)?
+          <select name="heizungVerbrauch"><option value="ja">Ja</option><option value="nein">Nein, nur nach Fläche</option><option value="?">Weiß nicht</option></select></label>
+        <label>Steht in der Heizkostenabrechnung etwas zu <b>CO₂-Kosten</b> (Aufteilung Mieter/Vermieter, Einstufung des Gebäudes)?
+          <select name="co2Angabe"><option value="ja">Ja</option><option value="nein">Nein</option><option value="?">Weiß nicht</option></select></label>
+        <label>Werden die Zähler per Funk abgelesen (niemand muss in die Wohnung)?
+          <select name="funk"><option value="ja">Ja</option><option value="nein">Nein</option><option value="?" selected>Weiß nicht</option></select></label>
+        <label>Bekommen Sie monatlich eine Verbrauchsinformation (Brief, Mail, App)?
+          <select name="monatsinfo"><option value="ja">Ja</option><option value="nein">Nein</option><option value="?" selected>Weiß nicht</option></select></label>
+      </div>
+    </fieldset>
+
+    <button class="btn" type="submit">Abrechnung prüfen</button>
+    <p class="fine">Keine Rechtsberatung. Der Check prüft typische, gesetzlich geregelte Fehler. In Zweifelsfällen helfen Mietervereine.</p>
+  </form>
+
+  <section id="ergebnis" hidden></section>
+  <section id="brief" hidden></section>
+</main>
+
+<footer class="wrap">
+  <a href="../impressum.html">Impressum</a> · <a href="../datenschutz.html">Datenschutz</a> ·
+  Ihre Eingaben werden nur in Ihrem Browser verarbeitet und nicht übertragen.
+</footer>
+
+<script src="config.js?v=1"></script>
+<script src="regeln.js?v=1"></script>
+<script src="app.js?v=1"></script>
+</body>
+</html>
