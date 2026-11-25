@@ -156,6 +156,11 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Orange Vet Hospital | Orange/Molong, NSW | orangevet@orangevet.com.au | gesendet 24.11. | Tierarzt |
 | Orana Veterinary Service | Dubbo, NSW | orana.vet@oranavet.com.au | gesendet 24.11. | Tierarzt (Notdienst), Adresse aus Facebook |
 | The Physio Collective | Caloundra, QLD | admin@thephysiocollective.com.au | **unzustellbar** | Adresse existiert nicht |
+| Trusted Smiles | Hobart/Westbury, TAS | hobart@trustedsmiles.com.au | gesendet 25.11. | Zahnarzt |
+| Elite Foot Care | Sippy Downs/Woombye, QLD | admin@elitefootcare.com.au | gesendet 25.11. | Podologie |
+| Mobile Podiatry | Clayfield, QLD | reception@mobilepodiatry.au | gesendet 25.11. | Podologie, mobil |
+| Lava Street Veterinary Clinic | Warrnambool, VIC | Reception@lsvc.com.au | gesendet 25.11. | Tierarzt, Adresse aus Facebook |
+| Dental Reflections | Joondalup, WA | admin@dentalreflections.net.au | gesendet 25.11. | Zahnarzt |
 
 ## Neuseeland
 
@@ -226,3 +231,5 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Relief Point Physio | Nelson | admin@reliefpointphysio.co.nz | gesendet 24.11. |  |
 | The Physio Institute | Stoke, Nelson | admin@thephysioinstitute.co.nz | gesendet 24.11. |  |
 | Aspire Physiotherapy | Greymouth | reception@aspirephysiotherapy.co.nz | gesendet 24.11. |  |
+| Phoenix Animal Wellness | Kerikeri | admin@phoenixanimalwellness.co.nz | gesendet 25.11. | Tierarzt |
+| Pets and Care Vet Clinic | Kerikeri | info@petsandcare.co.nz | gesendet 25.11. | Tierarzt |
