@@ -161,6 +161,8 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Mobile Podiatry | Clayfield, QLD | reception@mobilepodiatry.au | gesendet 25.11. | Podologie, mobil |
 | Lava Street Veterinary Clinic | Warrnambool, VIC | Reception@lsvc.com.au | gesendet 25.11. | Tierarzt, Adresse aus Facebook |
 | Dental Reflections | Joondalup, WA | admin@dentalreflections.net.au | gesendet 25.11. | Zahnarzt |
+| Ballarat Family Dental | Lucas, VIC | info@ballaratfamilydental.com.au | gesendet 26.11. | Zahnarzt, Adresse aus Verzeichnis |
+| Shepparton Dental Spa | Shepparton, VIC | smile@sheppdentalspa.com.au | gesendet 26.11. | Zahnarzt, Adresse aus Verzeichnis |
 
 ## Neuseeland
 
@@ -233,3 +235,7 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Aspire Physiotherapy | Greymouth | reception@aspirephysiotherapy.co.nz | gesendet 24.11. |  |
 | Phoenix Animal Wellness | Kerikeri | admin@phoenixanimalwellness.co.nz | gesendet 25.11. | Tierarzt |
 | Pets and Care Vet Clinic | Kerikeri | info@petsandcare.co.nz | gesendet 25.11. | Tierarzt |
+| Hillcrest Physiotherapy | Hamilton | reception@hillcrestphysio.co.nz | gesendet 26.11. |  |
+| Health in Motion | Hamilton | admin@healthinmotion.org.nz | gesendet 26.11. |  |
+| Rototuna Physiotherapy Clinic | Rototuna, Hamilton | info@rototunaphysio.co.nz | gesendet 26.11. | Adresse aus Facebook |
+| Lifestyle Physiotherapy | Hamilton / Ngāruawāhia | reception@lifestylephysio.co.nz | gesendet 26.11. | 3 Standorte |
