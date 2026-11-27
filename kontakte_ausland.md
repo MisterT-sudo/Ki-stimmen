@@ -163,6 +163,9 @@ Quelle der Daten: Websuche (Website-Fußzeilen, Registerdienste), Stand 17.11.20
 | Dental Reflections | Joondalup, WA | admin@dentalreflections.net.au | gesendet 25.11. | Zahnarzt |
 | Ballarat Family Dental | Lucas, VIC | info@ballaratfamilydental.com.au | gesendet 26.11. | Zahnarzt, Adresse aus Verzeichnis |
 | Shepparton Dental Spa | Shepparton, VIC | smile@sheppdentalspa.com.au | gesendet 26.11. | Zahnarzt, Adresse aus Verzeichnis |
+| Southern Tas Podiatry Clinic | Huonville, TAS | footcare@southerntaspodiatry.com.au | gesendet 27.11. | Podologie, Adresse aus Gemeindeverzeichnis |
+| Footprints Podiatry | Ulverstone, TAS | appointments@footprintspodiatry.com | gesendet 27.11. | Podologie, Adresse aus Gemeindeverzeichnis |
+| Teeth in Place | Bendigo/Castlemaine, VIC | hello@teethinplace.com.au | gesendet 27.11. | Zahnarzt, Adresse aus Suchergebnis |
 
 ## Neuseeland
 
